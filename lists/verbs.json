@@ -1,7 +1,7 @@
 [
     {
-        "verb": "be",
-        "conjugations": [
+        "word": "be",
+        "variants": [
             "be",
             "being",
             "been",
@@ -13,8 +13,8 @@
         ]
     },
     {
-        "verb": "have",
-        "conjugations": [
+        "word": "have",
+        "variants": [
             "have",
             "having",
             "had",
@@ -22,8 +22,8 @@
         ]
     },
     {
-        "verb": "do",
-        "conjugations": [
+        "word": "do",
+        "variants": [
             "do",
             "does",
             "doing",
@@ -32,8 +32,8 @@
         ]
     },
     {
-        "verb": "say",
-        "conjugations": [
+        "word": "say",
+        "variants": [
             "say",
             "says",
             "saying",
@@ -41,8 +41,8 @@
         ]
     },
     {
-        "verb": "go",
-        "conjugations": [
+        "word": "go",
+        "variants": [
             "go",
             "going",
             "gone",
@@ -51,8 +51,8 @@
         ]
     },
     {
-        "verb": "get",
-        "conjugations": [
+        "word": "get",
+        "variants": [
             "get",
             "gets",
             "getting",
@@ -61,8 +61,8 @@
         ]
     },
     {
-        "verb": "make",
-        "conjugations": [
+        "word": "make",
+        "variants": [
             "make",
             "makes",
             "making",
@@ -70,8 +70,8 @@
         ]
     },
     {
-        "verb": "know",
-        "conjugations": [
+        "word": "know",
+        "variants": [
             "know",
             "knows",
             "knowing",
@@ -80,8 +80,8 @@
         ]
     },
     {
-        "verb": "think",
-        "conjugations": [
+        "word": "think",
+        "variants": [
             "think",
             "thinks",
             "thinking",
@@ -89,8 +89,8 @@
         ]
     },
     {
-        "verb": "take",
-        "conjugations": [
+        "word": "take",
+        "variants": [
             "take",
             "takes",
             "taking",
@@ -99,8 +99,8 @@
         ]
     },
     {
-        "verb": "see",
-        "conjugations": [
+        "word": "see",
+        "variants": [
             "see",
             "sees",
             "seeing",
@@ -109,8 +109,8 @@
         ]
     },
     {
-        "verb": "come",
-        "conjugations": [
+        "word": "come",
+        "variants": [
             "come",
             "comes",
             "coming",
@@ -118,8 +118,8 @@
         ]
     },
     {
-        "verb": "want",
-        "conjugations": [
+        "word": "want",
+        "variants": [
             "want",
             "wants",
             "wanted",
@@ -127,8 +127,8 @@
         ]
     },
     {
-        "verb": "look",
-        "conjugations": [
+        "word": "look",
+        "variants": [
             "look",
             "looks",
             "looked",
@@ -136,8 +136,8 @@
         ]
     },
     {
-        "verb": "use",
-        "conjugations": [
+        "word": "use",
+        "variants": [
             "use",
             "uses",
             "used",
@@ -145,8 +145,8 @@
         ]
     },
     {
-        "verb": "find",
-        "conjugations": [
+        "word": "find",
+        "variants": [
             "find",
             "finds",
             "finding",
@@ -154,8 +154,8 @@
         ]
     },
     {
-        "verb": "give",
-        "conjugations": [
+        "word": "give",
+        "variants": [
             "give",
             "gives",
             "giving",
@@ -164,8 +164,8 @@
         ]
     },
     {
-        "verb": "tell",
-        "conjugations": [
+        "word": "tell",
+        "variants": [
             "tell",
             "tells",
             "telling",
@@ -173,8 +173,8 @@
         ]
     },
     {
-        "verb": "work",
-        "conjugations": [
+        "word": "work",
+        "variants": [
             "work",
             "works",
             "worked",
@@ -182,8 +182,8 @@
         ]
     },
     {
-        "verb": "call",
-        "conjugations": [
+        "word": "call",
+        "variants": [
             "call",
             "calls",
             "called",
@@ -191,8 +191,8 @@
         ]
     },
     {
-        "verb": "try",
-        "conjugations": [
+        "word": "try",
+        "variants": [
             "try",
             "tries",
             "tried",
@@ -200,8 +200,8 @@
         ]
     },
     {
-        "verb": "ask",
-        "conjugations": [
+        "word": "ask",
+        "variants": [
             "ask",
             "asks",
             "asked",
@@ -209,8 +209,8 @@
         ]
     },
     {
-        "verb": "need",
-        "conjugations": [
+        "word": "need",
+        "variants": [
             "need",
             "needs",
             "needed",
@@ -218,8 +218,8 @@
         ]
     },
     {
-        "verb": "feel",
-        "conjugations": [
+        "word": "feel",
+        "variants": [
             "feel",
             "feels",
             "feeling",
@@ -227,8 +227,8 @@
         ]
     },
     {
-        "verb": "become",
-        "conjugations": [
+        "word": "become",
+        "variants": [
             "become",
             "becomes",
             "becoming",
@@ -236,8 +236,8 @@
         ]
     },
     {
-        "verb": "leave",
-        "conjugations": [
+        "word": "leave",
+        "variants": [
             "leave",
             "leaves",
             "leaving",
@@ -245,16 +245,16 @@
         ]
     },
     {
-        "verb": "put",
-        "conjugations": [
+        "word": "put",
+        "variants": [
             "put",
             "puts",
             "putting"
         ]
     },
     {
-        "verb": "mean",
-        "conjugations": [
+        "word": "mean",
+        "variants": [
             "mean",
             "means",
             "meaning",
@@ -262,8 +262,8 @@
         ]
     },
     {
-        "verb": "keep",
-        "conjugations": [
+        "word": "keep",
+        "variants": [
             "keep",
             "keeps",
             "keeping",
@@ -271,16 +271,16 @@
         ]
     },
     {
-        "verb": "let",
-        "conjugations": [
+        "word": "let",
+        "variants": [
             "let",
             "lets",
             "letting"
         ]
     },
     {
-        "verb": "begin",
-        "conjugations": [
+        "word": "begin",
+        "variants": [
             "begin",
             "begins",
             "beginning",
@@ -289,8 +289,8 @@
         ]
     },
     {
-        "verb": "seem",
-        "conjugations": [
+        "word": "seem",
+        "variants": [
             "seem",
             "seems",
             "seemed",
@@ -298,8 +298,8 @@
         ]
     },
     {
-        "verb": "help",
-        "conjugations": [
+        "word": "help",
+        "variants": [
             "help",
             "helps",
             "helped",
@@ -307,8 +307,8 @@
         ]
     },
     {
-        "verb": "talk",
-        "conjugations": [
+        "word": "talk",
+        "variants": [
             "talk",
             "talks",
             "talked",
@@ -316,8 +316,8 @@
         ]
     },
     {
-        "verb": "turn",
-        "conjugations": [
+        "word": "turn",
+        "variants": [
             "turn",
             "turns",
             "turned",
@@ -325,8 +325,8 @@
         ]
     },
     {
-        "verb": "start",
-        "conjugations": [
+        "word": "start",
+        "variants": [
             "start",
             "starts",
             "started",
@@ -334,8 +334,8 @@
         ]
     },
     {
-        "verb": "show",
-        "conjugations": [
+        "word": "show",
+        "variants": [
             "show",
             "shows",
             "showed",
@@ -344,8 +344,8 @@
         ]
     },
     {
-        "verb": "hear",
-        "conjugations": [
+        "word": "hear",
+        "variants": [
             "hear",
             "hears",
             "hearing",
@@ -353,8 +353,8 @@
         ]
     },
     {
-        "verb": "play",
-        "conjugations": [
+        "word": "play",
+        "variants": [
             "play",
             "plays",
             "played",
@@ -362,8 +362,8 @@
         ]
     },
     {
-        "verb": "run",
-        "conjugations": [
+        "word": "run",
+        "variants": [
             "run",
             "runs",
             "running",
@@ -371,8 +371,8 @@
         ]
     },
     {
-        "verb": "move",
-        "conjugations": [
+        "word": "move",
+        "variants": [
             "move",
             "moves",
             "moved",
@@ -380,8 +380,8 @@
         ]
     },
     {
-        "verb": "like",
-        "conjugations": [
+        "word": "like",
+        "variants": [
             "like",
             "likes",
             "liked",
@@ -389,8 +389,8 @@
         ]
     },
     {
-        "verb": "live",
-        "conjugations": [
+        "word": "live",
+        "variants": [
             "live",
             "lives",
             "lived",
@@ -398,8 +398,8 @@
         ]
     },
     {
-        "verb": "believe",
-        "conjugations": [
+        "word": "believe",
+        "variants": [
             "believe",
             "believes",
             "believed",
@@ -407,8 +407,8 @@
         ]
     },
     {
-        "verb": "hold",
-        "conjugations": [
+        "word": "hold",
+        "variants": [
             "hold",
             "holds",
             "holding",
@@ -416,8 +416,8 @@
         ]
     },
     {
-        "verb": "bring",
-        "conjugations": [
+        "word": "bring",
+        "variants": [
             "bring",
             "brings",
             "bringing",
@@ -425,8 +425,8 @@
         ]
     },
     {
-        "verb": "happen",
-        "conjugations": [
+        "word": "happen",
+        "variants": [
             "happen",
             "happens",
             "happened",
@@ -434,8 +434,8 @@
         ]
     },
     {
-        "verb": "write",
-        "conjugations": [
+        "word": "write",
+        "variants": [
             "write",
             "writes",
             "writing",
@@ -444,8 +444,8 @@
         ]
     },
     {
-        "verb": "provide",
-        "conjugations": [
+        "word": "provide",
+        "variants": [
             "provide",
             "provides",
             "provided",
@@ -453,8 +453,8 @@
         ]
     },
     {
-        "verb": "sit",
-        "conjugations": [
+        "word": "sit",
+        "variants": [
             "sit",
             "sits",
             "sitting",
@@ -462,8 +462,8 @@
         ]
     },
     {
-        "verb": "stand",
-        "conjugations": [
+        "word": "stand",
+        "variants": [
             "stand",
             "stands",
             "standing",
@@ -471,8 +471,8 @@
         ]
     },
     {
-        "verb": "lose",
-        "conjugations": [
+        "word": "lose",
+        "variants": [
             "lose",
             "loses",
             "losing",
@@ -480,8 +480,8 @@
         ]
     },
     {
-        "verb": "pay",
-        "conjugations": [
+        "word": "pay",
+        "variants": [
             "pay",
             "pays",
             "paying",
@@ -489,8 +489,8 @@
         ]
     },
     {
-        "verb": "meet",
-        "conjugations": [
+        "word": "meet",
+        "variants": [
             "meet",
             "meets",
             "meeting",
@@ -498,8 +498,8 @@
         ]
     },
     {
-        "verb": "include",
-        "conjugations": [
+        "word": "include",
+        "variants": [
             "include",
             "includes",
             "included",
@@ -507,8 +507,8 @@
         ]
     },
     {
-        "verb": "continue",
-        "conjugations": [
+        "word": "continue",
+        "variants": [
             "continue",
             "continues",
             "continued",
@@ -516,16 +516,16 @@
         ]
     },
     {
-        "verb": "set",
-        "conjugations": [
+        "word": "set",
+        "variants": [
             "set",
             "sets",
             "setting"
         ]
     },
     {
-        "verb": "learn",
-        "conjugations": [
+        "word": "learn",
+        "variants": [
             "learn",
             "learns",
             "learning",
@@ -533,8 +533,8 @@
         ]
     },
     {
-        "verb": "change",
-        "conjugations": [
+        "word": "change",
+        "variants": [
             "change",
             "changes",
             "changed",
@@ -542,8 +542,8 @@
         ]
     },
     {
-        "verb": "lead",
-        "conjugations": [
+        "word": "lead",
+        "variants": [
             "lead",
             "leads",
             "leading",
@@ -551,8 +551,8 @@
         ]
     },
     {
-        "verb": "understand",
-        "conjugations": [
+        "word": "understand",
+        "variants": [
             "understand",
             "understands",
             "understanding",
@@ -560,8 +560,8 @@
         ]
     },
     {
-        "verb": "watch",
-        "conjugations": [
+        "word": "watch",
+        "variants": [
             "watch",
             "watches",
             "watched",
@@ -569,8 +569,8 @@
         ]
     },
     {
-        "verb": "follow",
-        "conjugations": [
+        "word": "follow",
+        "variants": [
             "follow",
             "follows",
             "followed",
@@ -578,8 +578,8 @@
         ]
     },
     {
-        "verb": "stop",
-        "conjugations": [
+        "word": "stop",
+        "variants": [
             "stop",
             "stops",
             "stopped",
@@ -587,8 +587,8 @@
         ]
     },
     {
-        "verb": "create",
-        "conjugations": [
+        "word": "create",
+        "variants": [
             "create",
             "creates",
             "created",
@@ -596,8 +596,8 @@
         ]
     },
     {
-        "verb": "speak",
-        "conjugations": [
+        "word": "speak",
+        "variants": [
             "speak",
             "speaks",
             "speaking",
@@ -606,16 +606,16 @@
         ]
     },
     {
-        "verb": "read",
-        "conjugations": [
+        "word": "read",
+        "variants": [
             "read",
             "reads",
             "reading"
         ]
     },
     {
-        "verb": "allow",
-        "conjugations": [
+        "word": "allow",
+        "variants": [
             "allow",
             "allows",
             "allowed",
@@ -623,8 +623,8 @@
         ]
     },
     {
-        "verb": "add",
-        "conjugations": [
+        "word": "add",
+        "variants": [
             "add",
             "adds",
             "added",
@@ -632,8 +632,8 @@
         ]
     },
     {
-        "verb": "spend",
-        "conjugations": [
+        "word": "spend",
+        "variants": [
             "spend",
             "spends",
             "spending",
@@ -641,8 +641,8 @@
         ]
     },
     {
-        "verb": "grow",
-        "conjugations": [
+        "word": "grow",
+        "variants": [
             "grow",
             "grows",
             "growing",
@@ -651,8 +651,8 @@
         ]
     },
     {
-        "verb": "open",
-        "conjugations": [
+        "word": "open",
+        "variants": [
             "open",
             "opens",
             "opened",
@@ -660,8 +660,8 @@
         ]
     },
     {
-        "verb": "walk",
-        "conjugations": [
+        "word": "walk",
+        "variants": [
             "walk",
             "walks",
             "walked",
@@ -669,8 +669,8 @@
         ]
     },
     {
-        "verb": "win",
-        "conjugations": [
+        "word": "win",
+        "variants": [
             "win",
             "wins",
             "winning",
@@ -678,8 +678,8 @@
         ]
     },
     {
-        "verb": "offer",
-        "conjugations": [
+        "word": "offer",
+        "variants": [
             "offer",
             "offers",
             "offered",
@@ -687,8 +687,8 @@
         ]
     },
     {
-        "verb": "remember",
-        "conjugations": [
+        "word": "remember",
+        "variants": [
             "remember",
             "remembers",
             "remembered",
@@ -696,8 +696,8 @@
         ]
     },
     {
-        "verb": "love",
-        "conjugations": [
+        "word": "love",
+        "variants": [
             "love",
             "loves",
             "loved",
@@ -705,8 +705,8 @@
         ]
     },
     {
-        "verb": "consider",
-        "conjugations": [
+        "word": "consider",
+        "variants": [
             "consider",
             "considers",
             "considered",
@@ -714,8 +714,8 @@
         ]
     },
     {
-        "verb": "appear",
-        "conjugations": [
+        "word": "appear",
+        "variants": [
             "appear",
             "appears",
             "appeared",
@@ -723,8 +723,8 @@
         ]
     },
     {
-        "verb": "buy",
-        "conjugations": [
+        "word": "buy",
+        "variants": [
             "buy",
             "buys",
             "buying",
@@ -732,8 +732,8 @@
         ]
     },
     {
-        "verb": "wait",
-        "conjugations": [
+        "word": "wait",
+        "variants": [
             "wait",
             "waits",
             "waited",
@@ -741,8 +741,8 @@
         ]
     },
     {
-        "verb": "serve",
-        "conjugations": [
+        "word": "serve",
+        "variants": [
             "serve",
             "serves",
             "served",
@@ -750,8 +750,8 @@
         ]
     },
     {
-        "verb": "die",
-        "conjugations": [
+        "word": "die",
+        "variants": [
             "die",
             "dies",
             "died",
@@ -759,8 +759,8 @@
         ]
     },
     {
-        "verb": "send",
-        "conjugations": [
+        "word": "send",
+        "variants": [
             "send",
             "sends",
             "sending",
@@ -768,8 +768,8 @@
         ]
     },
     {
-        "verb": "expect",
-        "conjugations": [
+        "word": "expect",
+        "variants": [
             "expect",
             "expects",
             "expected",
@@ -777,8 +777,8 @@
         ]
     },
     {
-        "verb": "build",
-        "conjugations": [
+        "word": "build",
+        "variants": [
             "build",
             "builds",
             "building",
@@ -786,8 +786,8 @@
         ]
     },
     {
-        "verb": "stay",
-        "conjugations": [
+        "word": "stay",
+        "variants": [
             "stay",
             "stays",
             "stayed",
@@ -795,8 +795,8 @@
         ]
     },
     {
-        "verb": "fall",
-        "conjugations": [
+        "word": "fall",
+        "variants": [
             "fall",
             "falls",
             "falling",
@@ -805,16 +805,16 @@
         ]
     },
     {
-        "verb": "cut",
-        "conjugations": [
+        "word": "cut",
+        "variants": [
             "cut",
             "cuts",
             "cutting"
         ]
     },
     {
-        "verb": "reach",
-        "conjugations": [
+        "word": "reach",
+        "variants": [
             "reach",
             "reaches",
             "reached",
@@ -822,8 +822,8 @@
         ]
     },
     {
-        "verb": "kill",
-        "conjugations": [
+        "word": "kill",
+        "variants": [
             "kill",
             "kills",
             "killed",
@@ -831,8 +831,8 @@
         ]
     },
     {
-        "verb": "remain",
-        "conjugations": [
+        "word": "remain",
+        "variants": [
             "remain",
             "remains",
             "remained",
@@ -840,8 +840,8 @@
         ]
     },
     {
-        "verb": "suggest",
-        "conjugations": [
+        "word": "suggest",
+        "variants": [
             "suggest",
             "suggests",
             "suggested",
@@ -849,8 +849,8 @@
         ]
     },
     {
-        "verb": "raise",
-        "conjugations": [
+        "word": "raise",
+        "variants": [
             "raise",
             "raises",
             "raised",
@@ -858,8 +858,8 @@
         ]
     },
     {
-        "verb": "pass",
-        "conjugations": [
+        "word": "pass",
+        "variants": [
             "pass",
             "passes",
             "passed",
@@ -867,8 +867,8 @@
         ]
     },
     {
-        "verb": "sell",
-        "conjugations": [
+        "word": "sell",
+        "variants": [
             "sell",
             "sells",
             "selling",
@@ -876,8 +876,8 @@
         ]
     },
     {
-        "verb": "require",
-        "conjugations": [
+        "word": "require",
+        "variants": [
             "require",
             "requires",
             "required",
@@ -885,8 +885,8 @@
         ]
     },
     {
-        "verb": "report",
-        "conjugations": [
+        "word": "report",
+        "variants": [
             "report",
             "reports",
             "reported",
@@ -894,8 +894,8 @@
         ]
     },
     {
-        "verb": "decide",
-        "conjugations": [
+        "word": "decide",
+        "variants": [
             "decide",
             "decides",
             "decided",
@@ -903,8 +903,8 @@
         ]
     },
     {
-        "verb": "pull",
-        "conjugations": [
+        "word": "pull",
+        "variants": [
             "pull",
             "pulls",
             "pulled",

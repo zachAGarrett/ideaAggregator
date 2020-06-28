@@ -36,8 +36,8 @@ while i<=4:
                     vConj.append(v.contents[0].strip())
 
         verbDict = {
-            "verb": vConj[0],
-            "conjugations": vConj
+            "word": vConj[0],
+            "variants": vConj
         }
 
         verbs.append(verbDict)
