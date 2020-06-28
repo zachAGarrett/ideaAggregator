@@ -1,0 +1,914 @@
+[
+    {
+        "verb": "be",
+        "conjugations": [
+            "be",
+            "being",
+            "been",
+            "were",
+            "am",
+            "are",
+            "is",
+            "was"
+        ]
+    },
+    {
+        "verb": "have",
+        "conjugations": [
+            "have",
+            "having",
+            "had",
+            "has"
+        ]
+    },
+    {
+        "verb": "do",
+        "conjugations": [
+            "do",
+            "does",
+            "doing",
+            "done",
+            "did"
+        ]
+    },
+    {
+        "verb": "say",
+        "conjugations": [
+            "say",
+            "says",
+            "saying",
+            "said"
+        ]
+    },
+    {
+        "verb": "go",
+        "conjugations": [
+            "go",
+            "going",
+            "gone",
+            "went",
+            "goes"
+        ]
+    },
+    {
+        "verb": "get",
+        "conjugations": [
+            "get",
+            "gets",
+            "getting",
+            "got",
+            "gotten"
+        ]
+    },
+    {
+        "verb": "make",
+        "conjugations": [
+            "make",
+            "makes",
+            "making",
+            "made"
+        ]
+    },
+    {
+        "verb": "know",
+        "conjugations": [
+            "know",
+            "knows",
+            "knowing",
+            "known",
+            "knew"
+        ]
+    },
+    {
+        "verb": "think",
+        "conjugations": [
+            "think",
+            "thinks",
+            "thinking",
+            "thought"
+        ]
+    },
+    {
+        "verb": "take",
+        "conjugations": [
+            "take",
+            "takes",
+            "taking",
+            "taken",
+            "took"
+        ]
+    },
+    {
+        "verb": "see",
+        "conjugations": [
+            "see",
+            "sees",
+            "seeing",
+            "seen",
+            "saw"
+        ]
+    },
+    {
+        "verb": "come",
+        "conjugations": [
+            "come",
+            "comes",
+            "coming",
+            "came"
+        ]
+    },
+    {
+        "verb": "want",
+        "conjugations": [
+            "want",
+            "wants",
+            "wanted",
+            "wanting"
+        ]
+    },
+    {
+        "verb": "look",
+        "conjugations": [
+            "look",
+            "looks",
+            "looked",
+            "looking"
+        ]
+    },
+    {
+        "verb": "use",
+        "conjugations": [
+            "use",
+            "uses",
+            "used",
+            "using"
+        ]
+    },
+    {
+        "verb": "find",
+        "conjugations": [
+            "find",
+            "finds",
+            "finding",
+            "found"
+        ]
+    },
+    {
+        "verb": "give",
+        "conjugations": [
+            "give",
+            "gives",
+            "giving",
+            "given",
+            "gave"
+        ]
+    },
+    {
+        "verb": "tell",
+        "conjugations": [
+            "tell",
+            "tells",
+            "telling",
+            "told"
+        ]
+    },
+    {
+        "verb": "work",
+        "conjugations": [
+            "work",
+            "works",
+            "worked",
+            "working"
+        ]
+    },
+    {
+        "verb": "call",
+        "conjugations": [
+            "call",
+            "calls",
+            "called",
+            "calling"
+        ]
+    },
+    {
+        "verb": "try",
+        "conjugations": [
+            "try",
+            "tries",
+            "tried",
+            "trying"
+        ]
+    },
+    {
+        "verb": "ask",
+        "conjugations": [
+            "ask",
+            "asks",
+            "asked",
+            "asking"
+        ]
+    },
+    {
+        "verb": "need",
+        "conjugations": [
+            "need",
+            "needs",
+            "needed",
+            "needing"
+        ]
+    },
+    {
+        "verb": "feel",
+        "conjugations": [
+            "feel",
+            "feels",
+            "feeling",
+            "felt"
+        ]
+    },
+    {
+        "verb": "become",
+        "conjugations": [
+            "become",
+            "becomes",
+            "becoming",
+            "became"
+        ]
+    },
+    {
+        "verb": "leave",
+        "conjugations": [
+            "leave",
+            "leaves",
+            "leaving",
+            "left"
+        ]
+    },
+    {
+        "verb": "put",
+        "conjugations": [
+            "put",
+            "puts",
+            "putting"
+        ]
+    },
+    {
+        "verb": "mean",
+        "conjugations": [
+            "mean",
+            "means",
+            "meaning",
+            "meant"
+        ]
+    },
+    {
+        "verb": "keep",
+        "conjugations": [
+            "keep",
+            "keeps",
+            "keeping",
+            "kept"
+        ]
+    },
+    {
+        "verb": "let",
+        "conjugations": [
+            "let",
+            "lets",
+            "letting"
+        ]
+    },
+    {
+        "verb": "begin",
+        "conjugations": [
+            "begin",
+            "begins",
+            "beginning",
+            "begun",
+            "began"
+        ]
+    },
+    {
+        "verb": "seem",
+        "conjugations": [
+            "seem",
+            "seems",
+            "seemed",
+            "seeming"
+        ]
+    },
+    {
+        "verb": "help",
+        "conjugations": [
+            "help",
+            "helps",
+            "helped",
+            "helping"
+        ]
+    },
+    {
+        "verb": "talk",
+        "conjugations": [
+            "talk",
+            "talks",
+            "talked",
+            "talking"
+        ]
+    },
+    {
+        "verb": "turn",
+        "conjugations": [
+            "turn",
+            "turns",
+            "turned",
+            "turning"
+        ]
+    },
+    {
+        "verb": "start",
+        "conjugations": [
+            "start",
+            "starts",
+            "started",
+            "starting"
+        ]
+    },
+    {
+        "verb": "show",
+        "conjugations": [
+            "show",
+            "shows",
+            "showed",
+            "showing",
+            "shown"
+        ]
+    },
+    {
+        "verb": "hear",
+        "conjugations": [
+            "hear",
+            "hears",
+            "hearing",
+            "heard"
+        ]
+    },
+    {
+        "verb": "play",
+        "conjugations": [
+            "play",
+            "plays",
+            "played",
+            "playing"
+        ]
+    },
+    {
+        "verb": "run",
+        "conjugations": [
+            "run",
+            "runs",
+            "running",
+            "ran"
+        ]
+    },
+    {
+        "verb": "move",
+        "conjugations": [
+            "move",
+            "moves",
+            "moved",
+            "moving"
+        ]
+    },
+    {
+        "verb": "like",
+        "conjugations": [
+            "like",
+            "likes",
+            "liked",
+            "liking"
+        ]
+    },
+    {
+        "verb": "live",
+        "conjugations": [
+            "live",
+            "lives",
+            "lived",
+            "living"
+        ]
+    },
+    {
+        "verb": "believe",
+        "conjugations": [
+            "believe",
+            "believes",
+            "believed",
+            "believing"
+        ]
+    },
+    {
+        "verb": "hold",
+        "conjugations": [
+            "hold",
+            "holds",
+            "holding",
+            "held"
+        ]
+    },
+    {
+        "verb": "bring",
+        "conjugations": [
+            "bring",
+            "brings",
+            "bringing",
+            "brought"
+        ]
+    },
+    {
+        "verb": "happen",
+        "conjugations": [
+            "happen",
+            "happens",
+            "happened",
+            "happening"
+        ]
+    },
+    {
+        "verb": "write",
+        "conjugations": [
+            "write",
+            "writes",
+            "writing",
+            "written",
+            "wrote"
+        ]
+    },
+    {
+        "verb": "provide",
+        "conjugations": [
+            "provide",
+            "provides",
+            "provided",
+            "providing"
+        ]
+    },
+    {
+        "verb": "sit",
+        "conjugations": [
+            "sit",
+            "sits",
+            "sitting",
+            "sat"
+        ]
+    },
+    {
+        "verb": "stand",
+        "conjugations": [
+            "stand",
+            "stands",
+            "standing",
+            "stood"
+        ]
+    },
+    {
+        "verb": "lose",
+        "conjugations": [
+            "lose",
+            "loses",
+            "losing",
+            "lost"
+        ]
+    },
+    {
+        "verb": "pay",
+        "conjugations": [
+            "pay",
+            "pays",
+            "paying",
+            "paid"
+        ]
+    },
+    {
+        "verb": "meet",
+        "conjugations": [
+            "meet",
+            "meets",
+            "meeting",
+            "met"
+        ]
+    },
+    {
+        "verb": "include",
+        "conjugations": [
+            "include",
+            "includes",
+            "included",
+            "including"
+        ]
+    },
+    {
+        "verb": "continue",
+        "conjugations": [
+            "continue",
+            "continues",
+            "continued",
+            "continuing"
+        ]
+    },
+    {
+        "verb": "set",
+        "conjugations": [
+            "set",
+            "sets",
+            "setting"
+        ]
+    },
+    {
+        "verb": "learn",
+        "conjugations": [
+            "learn",
+            "learns",
+            "learning",
+            "learnt"
+        ]
+    },
+    {
+        "verb": "change",
+        "conjugations": [
+            "change",
+            "changes",
+            "changed",
+            "changing"
+        ]
+    },
+    {
+        "verb": "lead",
+        "conjugations": [
+            "lead",
+            "leads",
+            "leading",
+            "led"
+        ]
+    },
+    {
+        "verb": "understand",
+        "conjugations": [
+            "understand",
+            "understands",
+            "understanding",
+            "understood"
+        ]
+    },
+    {
+        "verb": "watch",
+        "conjugations": [
+            "watch",
+            "watches",
+            "watched",
+            "watching"
+        ]
+    },
+    {
+        "verb": "follow",
+        "conjugations": [
+            "follow",
+            "follows",
+            "followed",
+            "following"
+        ]
+    },
+    {
+        "verb": "stop",
+        "conjugations": [
+            "stop",
+            "stops",
+            "stopped",
+            "stopping"
+        ]
+    },
+    {
+        "verb": "create",
+        "conjugations": [
+            "create",
+            "creates",
+            "created",
+            "creating"
+        ]
+    },
+    {
+        "verb": "speak",
+        "conjugations": [
+            "speak",
+            "speaks",
+            "speaking",
+            "spoken",
+            "spoke"
+        ]
+    },
+    {
+        "verb": "read",
+        "conjugations": [
+            "read",
+            "reads",
+            "reading"
+        ]
+    },
+    {
+        "verb": "allow",
+        "conjugations": [
+            "allow",
+            "allows",
+            "allowed",
+            "allowing"
+        ]
+    },
+    {
+        "verb": "add",
+        "conjugations": [
+            "add",
+            "adds",
+            "added",
+            "adding"
+        ]
+    },
+    {
+        "verb": "spend",
+        "conjugations": [
+            "spend",
+            "spends",
+            "spending",
+            "spent"
+        ]
+    },
+    {
+        "verb": "grow",
+        "conjugations": [
+            "grow",
+            "grows",
+            "growing",
+            "grown",
+            "grew"
+        ]
+    },
+    {
+        "verb": "open",
+        "conjugations": [
+            "open",
+            "opens",
+            "opened",
+            "opening"
+        ]
+    },
+    {
+        "verb": "walk",
+        "conjugations": [
+            "walk",
+            "walks",
+            "walked",
+            "walking"
+        ]
+    },
+    {
+        "verb": "win",
+        "conjugations": [
+            "win",
+            "wins",
+            "winning",
+            "won"
+        ]
+    },
+    {
+        "verb": "offer",
+        "conjugations": [
+            "offer",
+            "offers",
+            "offered",
+            "offering"
+        ]
+    },
+    {
+        "verb": "remember",
+        "conjugations": [
+            "remember",
+            "remembers",
+            "remembered",
+            "remembering"
+        ]
+    },
+    {
+        "verb": "love",
+        "conjugations": [
+            "love",
+            "loves",
+            "loved",
+            "loving"
+        ]
+    },
+    {
+        "verb": "consider",
+        "conjugations": [
+            "consider",
+            "considers",
+            "considered",
+            "considering"
+        ]
+    },
+    {
+        "verb": "appear",
+        "conjugations": [
+            "appear",
+            "appears",
+            "appeared",
+            "appearing"
+        ]
+    },
+    {
+        "verb": "buy",
+        "conjugations": [
+            "buy",
+            "buys",
+            "buying",
+            "bought"
+        ]
+    },
+    {
+        "verb": "wait",
+        "conjugations": [
+            "wait",
+            "waits",
+            "waited",
+            "waiting"
+        ]
+    },
+    {
+        "verb": "serve",
+        "conjugations": [
+            "serve",
+            "serves",
+            "served",
+            "serving"
+        ]
+    },
+    {
+        "verb": "die",
+        "conjugations": [
+            "die",
+            "dies",
+            "died",
+            "dying"
+        ]
+    },
+    {
+        "verb": "send",
+        "conjugations": [
+            "send",
+            "sends",
+            "sending",
+            "sent"
+        ]
+    },
+    {
+        "verb": "expect",
+        "conjugations": [
+            "expect",
+            "expects",
+            "expected",
+            "expecting"
+        ]
+    },
+    {
+        "verb": "build",
+        "conjugations": [
+            "build",
+            "builds",
+            "building",
+            "built"
+        ]
+    },
+    {
+        "verb": "stay",
+        "conjugations": [
+            "stay",
+            "stays",
+            "stayed",
+            "staying"
+        ]
+    },
+    {
+        "verb": "fall",
+        "conjugations": [
+            "fall",
+            "falls",
+            "falling",
+            "fallen",
+            "fell"
+        ]
+    },
+    {
+        "verb": "cut",
+        "conjugations": [
+            "cut",
+            "cuts",
+            "cutting"
+        ]
+    },
+    {
+        "verb": "reach",
+        "conjugations": [
+            "reach",
+            "reaches",
+            "reached",
+            "reaching"
+        ]
+    },
+    {
+        "verb": "kill",
+        "conjugations": [
+            "kill",
+            "kills",
+            "killed",
+            "killing"
+        ]
+    },
+    {
+        "verb": "remain",
+        "conjugations": [
+            "remain",
+            "remains",
+            "remained",
+            "remaining"
+        ]
+    },
+    {
+        "verb": "suggest",
+        "conjugations": [
+            "suggest",
+            "suggests",
+            "suggested",
+            "suggesting"
+        ]
+    },
+    {
+        "verb": "raise",
+        "conjugations": [
+            "raise",
+            "raises",
+            "raised",
+            "raising"
+        ]
+    },
+    {
+        "verb": "pass",
+        "conjugations": [
+            "pass",
+            "passes",
+            "passed",
+            "passing"
+        ]
+    },
+    {
+        "verb": "sell",
+        "conjugations": [
+            "sell",
+            "sells",
+            "selling",
+            "sold"
+        ]
+    },
+    {
+        "verb": "require",
+        "conjugations": [
+            "require",
+            "requires",
+            "required",
+            "requiring"
+        ]
+    },
+    {
+        "verb": "report",
+        "conjugations": [
+            "report",
+            "reports",
+            "reported",
+            "reporting"
+        ]
+    },
+    {
+        "verb": "decide",
+        "conjugations": [
+            "decide",
+            "decides",
+            "decided",
+            "deciding"
+        ]
+    },
+    {
+        "verb": "pull",
+        "conjugations": [
+            "pull",
+            "pulls",
+            "pulled",
+            "pulling"
+        ]
+    }
+]
