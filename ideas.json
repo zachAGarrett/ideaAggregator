@@ -1,9 +1,16 @@
 {
     "nouns": [
-        "people",
         "house",
+        "a",
+        "big",
         "buy"
     ],
-    "verbs": [],
-    "adjectives": []
+    "verbs": [
+        "want",
+        "buy"
+    ],
+    "adjectives": [
+        "big",
+        "house"
+    ]
 }
