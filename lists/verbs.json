@@ -1,0 +1,914 @@
+[
+    {
+        "word": "be",
+        "variants": [
+            "be",
+            "being",
+            "been",
+            "were",
+            "am",
+            "are",
+            "is",
+            "was"
+        ]
+    },
+    {
+        "word": "have",
+        "variants": [
+            "have",
+            "having",
+            "had",
+            "has"
+        ]
+    },
+    {
+        "word": "do",
+        "variants": [
+            "do",
+            "does",
+            "doing",
+            "done",
+            "did"
+        ]
+    },
+    {
+        "word": "say",
+        "variants": [
+            "say",
+            "says",
+            "saying",
+            "said"
+        ]
+    },
+    {
+        "word": "go",
+        "variants": [
+            "go",
+            "going",
+            "gone",
+            "went",
+            "goes"
+        ]
+    },
+    {
+        "word": "get",
+        "variants": [
+            "get",
+            "gets",
+            "getting",
+            "got",
+            "gotten"
+        ]
+    },
+    {
+        "word": "make",
+        "variants": [
+            "make",
+            "makes",
+            "making",
+            "made"
+        ]
+    },
+    {
+        "word": "know",
+        "variants": [
+            "know",
+            "knows",
+            "knowing",
+            "known",
+            "knew"
+        ]
+    },
+    {
+        "word": "think",
+        "variants": [
+            "think",
+            "thinks",
+            "thinking",
+            "thought"
+        ]
+    },
+    {
+        "word": "take",
+        "variants": [
+            "take",
+            "takes",
+            "taking",
+            "taken",
+            "took"
+        ]
+    },
+    {
+        "word": "see",
+        "variants": [
+            "see",
+            "sees",
+            "seeing",
+            "seen",
+            "saw"
+        ]
+    },
+    {
+        "word": "come",
+        "variants": [
+            "come",
+            "comes",
+            "coming",
+            "came"
+        ]
+    },
+    {
+        "word": "want",
+        "variants": [
+            "want",
+            "wants",
+            "wanted",
+            "wanting"
+        ]
+    },
+    {
+        "word": "look",
+        "variants": [
+            "look",
+            "looks",
+            "looked",
+            "looking"
+        ]
+    },
+    {
+        "word": "use",
+        "variants": [
+            "use",
+            "uses",
+            "used",
+            "using"
+        ]
+    },
+    {
+        "word": "find",
+        "variants": [
+            "find",
+            "finds",
+            "finding",
+            "found"
+        ]
+    },
+    {
+        "word": "give",
+        "variants": [
+            "give",
+            "gives",
+            "giving",
+            "given",
+            "gave"
+        ]
+    },
+    {
+        "word": "tell",
+        "variants": [
+            "tell",
+            "tells",
+            "telling",
+            "told"
+        ]
+    },
+    {
+        "word": "work",
+        "variants": [
+            "work",
+            "works",
+            "worked",
+            "working"
+        ]
+    },
+    {
+        "word": "call",
+        "variants": [
+            "call",
+            "calls",
+            "called",
+            "calling"
+        ]
+    },
+    {
+        "word": "try",
+        "variants": [
+            "try",
+            "tries",
+            "tried",
+            "trying"
+        ]
+    },
+    {
+        "word": "ask",
+        "variants": [
+            "ask",
+            "asks",
+            "asked",
+            "asking"
+        ]
+    },
+    {
+        "word": "need",
+        "variants": [
+            "need",
+            "needs",
+            "needed",
+            "needing"
+        ]
+    },
+    {
+        "word": "feel",
+        "variants": [
+            "feel",
+            "feels",
+            "feeling",
+            "felt"
+        ]
+    },
+    {
+        "word": "become",
+        "variants": [
+            "become",
+            "becomes",
+            "becoming",
+            "became"
+        ]
+    },
+    {
+        "word": "leave",
+        "variants": [
+            "leave",
+            "leaves",
+            "leaving",
+            "left"
+        ]
+    },
+    {
+        "word": "put",
+        "variants": [
+            "put",
+            "puts",
+            "putting"
+        ]
+    },
+    {
+        "word": "mean",
+        "variants": [
+            "mean",
+            "means",
+            "meaning",
+            "meant"
+        ]
+    },
+    {
+        "word": "keep",
+        "variants": [
+            "keep",
+            "keeps",
+            "keeping",
+            "kept"
+        ]
+    },
+    {
+        "word": "let",
+        "variants": [
+            "let",
+            "lets",
+            "letting"
+        ]
+    },
+    {
+        "word": "begin",
+        "variants": [
+            "begin",
+            "begins",
+            "beginning",
+            "begun",
+            "began"
+        ]
+    },
+    {
+        "word": "seem",
+        "variants": [
+            "seem",
+            "seems",
+            "seemed",
+            "seeming"
+        ]
+    },
+    {
+        "word": "help",
+        "variants": [
+            "help",
+            "helps",
+            "helped",
+            "helping"
+        ]
+    },
+    {
+        "word": "talk",
+        "variants": [
+            "talk",
+            "talks",
+            "talked",
+            "talking"
+        ]
+    },
+    {
+        "word": "turn",
+        "variants": [
+            "turn",
+            "turns",
+            "turned",
+            "turning"
+        ]
+    },
+    {
+        "word": "start",
+        "variants": [
+            "start",
+            "starts",
+            "started",
+            "starting"
+        ]
+    },
+    {
+        "word": "show",
+        "variants": [
+            "show",
+            "shows",
+            "showed",
+            "showing",
+            "shown"
+        ]
+    },
+    {
+        "word": "hear",
+        "variants": [
+            "hear",
+            "hears",
+            "hearing",
+            "heard"
+        ]
+    },
+    {
+        "word": "play",
+        "variants": [
+            "play",
+            "plays",
+            "played",
+            "playing"
+        ]
+    },
+    {
+        "word": "run",
+        "variants": [
+            "run",
+            "runs",
+            "running",
+            "ran"
+        ]
+    },
+    {
+        "word": "move",
+        "variants": [
+            "move",
+            "moves",
+            "moved",
+            "moving"
+        ]
+    },
+    {
+        "word": "like",
+        "variants": [
+            "like",
+            "likes",
+            "liked",
+            "liking"
+        ]
+    },
+    {
+        "word": "live",
+        "variants": [
+            "live",
+            "lives",
+            "lived",
+            "living"
+        ]
+    },
+    {
+        "word": "believe",
+        "variants": [
+            "believe",
+            "believes",
+            "believed",
+            "believing"
+        ]
+    },
+    {
+        "word": "hold",
+        "variants": [
+            "hold",
+            "holds",
+            "holding",
+            "held"
+        ]
+    },
+    {
+        "word": "bring",
+        "variants": [
+            "bring",
+            "brings",
+            "bringing",
+            "brought"
+        ]
+    },
+    {
+        "word": "happen",
+        "variants": [
+            "happen",
+            "happens",
+            "happened",
+            "happening"
+        ]
+    },
+    {
+        "word": "write",
+        "variants": [
+            "write",
+            "writes",
+            "writing",
+            "written",
+            "wrote"
+        ]
+    },
+    {
+        "word": "provide",
+        "variants": [
+            "provide",
+            "provides",
+            "provided",
+            "providing"
+        ]
+    },
+    {
+        "word": "sit",
+        "variants": [
+            "sit",
+            "sits",
+            "sitting",
+            "sat"
+        ]
+    },
+    {
+        "word": "stand",
+        "variants": [
+            "stand",
+            "stands",
+            "standing",
+            "stood"
+        ]
+    },
+    {
+        "word": "lose",
+        "variants": [
+            "lose",
+            "loses",
+            "losing",
+            "lost"
+        ]
+    },
+    {
+        "word": "pay",
+        "variants": [
+            "pay",
+            "pays",
+            "paying",
+            "paid"
+        ]
+    },
+    {
+        "word": "meet",
+        "variants": [
+            "meet",
+            "meets",
+            "meeting",
+            "met"
+        ]
+    },
+    {
+        "word": "include",
+        "variants": [
+            "include",
+            "includes",
+            "included",
+            "including"
+        ]
+    },
+    {
+        "word": "continue",
+        "variants": [
+            "continue",
+            "continues",
+            "continued",
+            "continuing"
+        ]
+    },
+    {
+        "word": "set",
+        "variants": [
+            "set",
+            "sets",
+            "setting"
+        ]
+    },
+    {
+        "word": "learn",
+        "variants": [
+            "learn",
+            "learns",
+            "learning",
+            "learnt"
+        ]
+    },
+    {
+        "word": "change",
+        "variants": [
+            "change",
+            "changes",
+            "changed",
+            "changing"
+        ]
+    },
+    {
+        "word": "lead",
+        "variants": [
+            "lead",
+            "leads",
+            "leading",
+            "led"
+        ]
+    },
+    {
+        "word": "understand",
+        "variants": [
+            "understand",
+            "understands",
+            "understanding",
+            "understood"
+        ]
+    },
+    {
+        "word": "watch",
+        "variants": [
+            "watch",
+            "watches",
+            "watched",
+            "watching"
+        ]
+    },
+    {
+        "word": "follow",
+        "variants": [
+            "follow",
+            "follows",
+            "followed",
+            "following"
+        ]
+    },
+    {
+        "word": "stop",
+        "variants": [
+            "stop",
+            "stops",
+            "stopped",
+            "stopping"
+        ]
+    },
+    {
+        "word": "create",
+        "variants": [
+            "create",
+            "creates",
+            "created",
+            "creating"
+        ]
+    },
+    {
+        "word": "speak",
+        "variants": [
+            "speak",
+            "speaks",
+            "speaking",
+            "spoken",
+            "spoke"
+        ]
+    },
+    {
+        "word": "read",
+        "variants": [
+            "read",
+            "reads",
+            "reading"
+        ]
+    },
+    {
+        "word": "allow",
+        "variants": [
+            "allow",
+            "allows",
+            "allowed",
+            "allowing"
+        ]
+    },
+    {
+        "word": "add",
+        "variants": [
+            "add",
+            "adds",
+            "added",
+            "adding"
+        ]
+    },
+    {
+        "word": "spend",
+        "variants": [
+            "spend",
+            "spends",
+            "spending",
+            "spent"
+        ]
+    },
+    {
+        "word": "grow",
+        "variants": [
+            "grow",
+            "grows",
+            "growing",
+            "grown",
+            "grew"
+        ]
+    },
+    {
+        "word": "open",
+        "variants": [
+            "open",
+            "opens",
+            "opened",
+            "opening"
+        ]
+    },
+    {
+        "word": "walk",
+        "variants": [
+            "walk",
+            "walks",
+            "walked",
+            "walking"
+        ]
+    },
+    {
+        "word": "win",
+        "variants": [
+            "win",
+            "wins",
+            "winning",
+            "won"
+        ]
+    },
+    {
+        "word": "offer",
+        "variants": [
+            "offer",
+            "offers",
+            "offered",
+            "offering"
+        ]
+    },
+    {
+        "word": "remember",
+        "variants": [
+            "remember",
+            "remembers",
+            "remembered",
+            "remembering"
+        ]
+    },
+    {
+        "word": "love",
+        "variants": [
+            "love",
+            "loves",
+            "loved",
+            "loving"
+        ]
+    },
+    {
+        "word": "consider",
+        "variants": [
+            "consider",
+            "considers",
+            "considered",
+            "considering"
+        ]
+    },
+    {
+        "word": "appear",
+        "variants": [
+            "appear",
+            "appears",
+            "appeared",
+            "appearing"
+        ]
+    },
+    {
+        "word": "buy",
+        "variants": [
+            "buy",
+            "buys",
+            "buying",
+            "bought"
+        ]
+    },
+    {
+        "word": "wait",
+        "variants": [
+            "wait",
+            "waits",
+            "waited",
+            "waiting"
+        ]
+    },
+    {
+        "word": "serve",
+        "variants": [
+            "serve",
+            "serves",
+            "served",
+            "serving"
+        ]
+    },
+    {
+        "word": "die",
+        "variants": [
+            "die",
+            "dies",
+            "died",
+            "dying"
+        ]
+    },
+    {
+        "word": "send",
+        "variants": [
+            "send",
+            "sends",
+            "sending",
+            "sent"
+        ]
+    },
+    {
+        "word": "expect",
+        "variants": [
+            "expect",
+            "expects",
+            "expected",
+            "expecting"
+        ]
+    },
+    {
+        "word": "build",
+        "variants": [
+            "build",
+            "builds",
+            "building",
+            "built"
+        ]
+    },
+    {
+        "word": "stay",
+        "variants": [
+            "stay",
+            "stays",
+            "stayed",
+            "staying"
+        ]
+    },
+    {
+        "word": "fall",
+        "variants": [
+            "fall",
+            "falls",
+            "falling",
+            "fallen",
+            "fell"
+        ]
+    },
+    {
+        "word": "cut",
+        "variants": [
+            "cut",
+            "cuts",
+            "cutting"
+        ]
+    },
+    {
+        "word": "reach",
+        "variants": [
+            "reach",
+            "reaches",
+            "reached",
+            "reaching"
+        ]
+    },
+    {
+        "word": "kill",
+        "variants": [
+            "kill",
+            "kills",
+            "killed",
+            "killing"
+        ]
+    },
+    {
+        "word": "remain",
+        "variants": [
+            "remain",
+            "remains",
+            "remained",
+            "remaining"
+        ]
+    },
+    {
+        "word": "suggest",
+        "variants": [
+            "suggest",
+            "suggests",
+            "suggested",
+            "suggesting"
+        ]
+    },
+    {
+        "word": "raise",
+        "variants": [
+            "raise",
+            "raises",
+            "raised",
+            "raising"
+        ]
+    },
+    {
+        "word": "pass",
+        "variants": [
+            "pass",
+            "passes",
+            "passed",
+            "passing"
+        ]
+    },
+    {
+        "word": "sell",
+        "variants": [
+            "sell",
+            "sells",
+            "selling",
+            "sold"
+        ]
+    },
+    {
+        "word": "require",
+        "variants": [
+            "require",
+            "requires",
+            "required",
+            "requiring"
+        ]
+    },
+    {
+        "word": "report",
+        "variants": [
+            "report",
+            "reports",
+            "reported",
+            "reporting"
+        ]
+    },
+    {
+        "word": "decide",
+        "variants": [
+            "decide",
+            "decides",
+            "decided",
+            "deciding"
+        ]
+    },
+    {
+        "word": "pull",
+        "variants": [
+            "pull",
+            "pulls",
+            "pulled",
+            "pulling"
+        ]
+    }
+]
