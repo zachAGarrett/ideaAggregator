@@ -13,14 +13,9 @@ fetchData(url).then( (res) => {
     });
     const FilterList = List.filter(Boolean);
 
-    const Obj = [];
-    for (const word of FilterList) {
-        Obj.push({word: word, variants: []})
-    }
-
-    const json = JSON.stringify(Obj);
+    const json = JSON.stringify(FilterList);
     const fs = require('fs');
-    fs.writeFile('./lists/Nouns.json', json, function (){
+    fs.writeFile('./lists/WordBank.json', json, function (){
         console.log('File Written')
     });
 })
