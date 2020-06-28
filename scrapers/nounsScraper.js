@@ -5,17 +5,22 @@ const url = 'http://www.talkenglish.com/vocabulary/top-1500-nouns.aspx';
 fetchData(url).then( (res) => {
     const response = res.data;
     const $ = cheerio.load(response);
-    const nounsTable = $('#GridView3 > tbody > tr');
-    const nounsList = [];
-    nounsTable.each(function() {
+    const Table = $('#GridView3 > tbody > tr');
+    const List = [];
+    Table.each(function() {
         let word = $(this).children('td').eq(1).children('a').text();
-        nounsList.push(word);
+        List.push(word);
     });
-    const filterNounsList = nounsList.filter(Boolean);
+    const FilterList = List.filter(Boolean);
 
-    const json = JSON.stringify(filterNounsList);
+    const Obj = [];
+    for (const word of FilterList) {
+        Obj.push({word: word, variant: []})
+    }
+
+    const json = JSON.stringify(Obj);
     const fs = require('fs');
-    fs.writeFile('../lists/Nouns.json', json, function (){
+    fs.writeFile('./lists/Nouns.json', json, function (){
         console.log('File Written')
     });
 })

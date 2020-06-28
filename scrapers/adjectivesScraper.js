@@ -13,9 +13,14 @@ fetchData(url).then( (res) => {
     });
     const FilterList = List.filter(Boolean);
 
-    const json = JSON.stringify(FilterList);
+    const Obj = [];
+    for (const word of FilterList) {
+        Obj.push({word: word, variants: []})
+    }
+
+    const json = JSON.stringify(Obj);
     const fs = require('fs');
-    fs.writeFile('../lists/Adjectives.json', json, function (){
+    fs.writeFile('./lists/Adjectives.json', json, function (){
         console.log('File Written')
     });
 })
