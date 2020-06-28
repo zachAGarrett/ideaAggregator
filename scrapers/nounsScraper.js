@@ -15,7 +15,7 @@ fetchData(url).then( (res) => {
 
     const Obj = [];
     for (const word of FilterList) {
-        Obj.push({word: word, variant: []})
+        Obj.push({word: word, variants: []})
     }
 
     const json = JSON.stringify(Obj);
