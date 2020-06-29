@@ -1,0 +1,168 @@
+{
+  "table": [
+    {
+      "root": "person",
+      "words": [
+        "person"
+      ],
+      "variations": [],
+      "types": [
+        "noun"
+      ]
+    },
+    {
+      "root": "people",
+      "words": [
+        "people"
+      ],
+      "variations": [
+        "people",
+        "peopled",
+        "peopling",
+        "peoples"
+      ],
+      "types": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "root": "person",
+      "words": [
+        "person"
+      ],
+      "variations": [],
+      "types": [
+        "noun"
+      ]
+    },
+    {
+      "root": "people",
+      "words": [
+        "people"
+      ],
+      "variations": [
+        "people",
+        "peopled",
+        "peopling",
+        "peoples"
+      ],
+      "types": [
+        "noun",
+        "verb"
+      ]
+    },
+    {
+      "root": "thing",
+      "words": [
+        "thing"
+      ],
+      "variations": [],
+      "types": [
+        "noun"
+      ]
+    },
+    {
+      "root": "thing",
+      "words": [
+        "thing"
+      ],
+      "variations": [],
+      "types": [
+        "noun"
+      ]
+    },
+    {
+      "root": "bare",
+      "words": [
+        "bare"
+      ],
+      "variations": [
+        "barer",
+        "barest",
+        "bared",
+        "baring"
+      ],
+      "types": [
+        "adjective",
+        "verb"
+      ]
+    },
+    {
+      "root": "buy",
+      "words": [
+        "buy"
+      ],
+      "variations": [
+        "bought",
+        "buying"
+      ],
+      "types": [
+        "verb",
+        "noun"
+      ]
+    },
+    {
+      "root": "bye",
+      "words": [
+        "bye"
+      ],
+      "variations": [
+        "byes"
+      ],
+      "types": [
+        "noun",
+        "interjection"
+      ]
+    },
+    {
+      "root": "that",
+      "words": [
+        "that"
+      ],
+      "variations": [
+        "those"
+      ],
+      "types": [
+        "pronoun",
+        "conjunction",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "root": "this",
+      "words": [
+        "this"
+      ],
+      "variations": [
+        "these"
+      ],
+      "types": [
+        "pronoun",
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "root": "i",
+      "words": [
+        "i",
+        "I",
+        "-i-"
+      ],
+      "variations": [
+        "i's",
+        "is",
+        "I's",
+        "Is"
+      ],
+      "types": [
+        "noun",
+        "abbreviation",
+        "symbol",
+        "pronoun"
+      ]
+    }
+  ]
+}
