@@ -34,7 +34,7 @@ def calculateWeights(words):
 def generateIdea(sentence = ''):
     words = sentence.split(' ')
     ideaWords = []
-    with open('./lists/words.json', 'r') as f:
+    with open('./lists/knownWords.json', 'r') as f:
         data = json.load(f)
         for word in data:
             if words.__contains__(word['root']):
@@ -107,16 +107,16 @@ def addWord(wordResponse):
                             'types': [word['fl']]
                         }
                         trackedWords.append(wordDict)
-    with open('./lists/words.json', 'r') as f:
+    with open('./lists/knownWords.json', 'r') as f:
         data = json.load(f)
         for word in trackedWords:
             data.append(word)
-        with open('./lists/words.json', 'w') as fw:
+        with open('./lists/knownWords.json', 'w') as fw:
             json.dump(data, fw, indent=4)
 
 def addUnknownWords(sentence = ''):
     words = sentence.split(' ')
-    with open('./lists/words.json') as f:
+    with open('./lists/knownWords.json') as f:
         wordList = json.load(f)
         knownWords = []
         for word in words:
