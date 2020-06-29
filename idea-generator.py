@@ -30,12 +30,12 @@ def calculateWeights(words):
         with open('weights.json', 'w') as fw:
             json.dump(weightedWords, fw, indent=4)
 
-
 def generateIdea(sentence = ''):
     words = sentence.split(' ')
     ideaWords = []
     with open('./lists/knownWords.json', 'r') as f:
         data = json.load(f)
+        data = [w for w in data if 'verb' in w['types'] or 'adjective' in w['types'] or 'noun' in w['types']]
         for word in data:
             if words.__contains__(word['root']):
                 if not ideaWords.__contains__(word['root']):
@@ -74,32 +74,21 @@ def addWord(wordResponse):
     for word in json.loads(wordResponse.content.decode('utf8')):
         if not word['meta']['id'].split(' ').__len__() > 1 and not word['meta']['id'].split('-').__len__() > 1:
             if 'fl' in word:
-                if word['fl'] in ('verb', 'noun', 'adjective'):
-                    if word['meta']['id'].__contains__(':'):
-                        wordId = word['meta']['id'].split(':')[0]
-                    else:
-                        wordId = word['meta']['id']
-                    
-                    if trackedWords.__len__() > 0:
-                        isTracked = False
-                        for trackedWord in trackedWords:
-                            if trackedWord['root'] == wordId:
-                                isTracked = True
-                                knownVariants = trackedWord['variants']
-                                trackedWord['variants'] = mergeVariants(knownVariants, getVariants(word))
-                                if not trackedWord['types'].__contains__(word['fl']):
-                                    trackedWord['types'].append(word['fl'])
-                        if not isTracked:
-                            variants = getVariants(word)
-                            wordDict = {
-                                'root': wordId,
-                                'variants': variants,
-                                'types': [word['fl']]
-                            }
-                            trackedWords.append(wordDict)
-                            
-
-                    else:
+                if word['meta']['id'].__contains__(':'):
+                    wordId = word['meta']['id'].split(':')[0]
+                else:
+                    wordId = word['meta']['id']
+                
+                if trackedWords.__len__() > 0:
+                    isTracked = False
+                    for trackedWord in trackedWords:
+                        if trackedWord['root'] == wordId:
+                            isTracked = True
+                            knownVariants = trackedWord['variants']
+                            trackedWord['variants'] = mergeVariants(knownVariants, getVariants(word))
+                            if not trackedWord['types'].__contains__(word['fl']):
+                                trackedWord['types'].append(word['fl'])
+                    if not isTracked:
                         variants = getVariants(word)
                         wordDict = {
                             'root': wordId,
@@ -107,6 +96,16 @@ def addWord(wordResponse):
                             'types': [word['fl']]
                         }
                         trackedWords.append(wordDict)
+                        
+
+                else:
+                    variants = getVariants(word)
+                    wordDict = {
+                        'root': wordId,
+                        'variants': variants,
+                        'types': [word['fl']]
+                    }
+                    trackedWords.append(wordDict)
     with open('./lists/knownWords.json', 'r') as f:
         data = json.load(f)
         for word in trackedWords:
@@ -132,6 +131,7 @@ def addUnknownWords(sentence = ''):
 
 def parseSentence(sentence = ''):
     sentence = sentence.lower().strip()
+    sentence = sentence.replace(',', '')
     addUnknownWords(sentence)
     idea = generateIdea(sentence)
     calculateWeights(sentence.split(' '))
