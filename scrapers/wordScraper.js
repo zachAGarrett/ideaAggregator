@@ -3,49 +3,54 @@ const fs = require('fs');
 const cheerio = require('cheerio');
 
 
-const words = [];
+const new_words = [];
 const urls = [];
 
 const json = fs.readFileSync('./lists/WordBank.json', 'utf8');
 const parsed_json = JSON.parse(json);
 for (const word of parsed_json) {
-    words.push(word)
+    new_words.push(word)
 }
-const known_words = [];
-const readWords = () => {
-    const json_known_words = fs.readFileSync('./lists/KnownWords.json', 'utf8');
-    const parsed_json_known_words = JSON.parse(json_known_words);
-    if (parsed_json_known_words.table.length > 0) {
-        for (const word of parsed_json_known_words.table) {
-            known_words.push(word.root)
+const readDictionary = () => {
+    const json_data = fs.readFileSync('./lists/data.json', 'utf8');
+    const parsed_json_data = JSON.parse(json_data);
+    console.log(`I currently know ${parsed_json_data.dictionary.length} words.`)
+    console.log(`I am tracking ${parsed_json_data.ideas.length} ideas.`)
+    if (parsed_json_data.dictionary.length > 0) {
+        for (const word of parsed_json_data.dictionary) {
+            known_words.push(word.root);
         }
     } else {
         return console.log('No known words');
     }
 }
+const known_words = [];
 try {
-    readWords();
+    readDictionary();
 } catch (error) {
     console.log(error);
-    const Obj_init = {table: []};
+    const Obj_init = {dictionary: [], ideas: [], weights: []};
     const json_init = JSON.stringify(Obj_init, null, 2);
-    fs.writeFileSync('./lists/KnownWords.json', json_init, function (err,data){
-        if (err) return console.log(err);
-        console.log(`Wrote: ${data}`);
+    fs.writeFileSync('./lists/data.json', json_init, function (err,data){
+        if (err) {
+            return console.log(err);
+        } else {
+            return console.log(`New file using: ${data}`)
+        }
     });
-    readWords();
+    readDictionary();
 }
 for (const word of known_words) {
-    const index = words.indexOf(word);
+    const index = new_words.indexOf(word);
     if (index > -1) {
-        words.splice(index, 1);
+        new_words.splice(index, 1);
     }
 }
-console.log(`Words to enter: ${words}`);
+console.log(`Words to enter: ${new_words}`);
 
 
 
-for (const word of words) {
+for (const word of new_words) {
     urls.push(`https://www.merriam-webster.com/dictionary/${word}`)
 };
 
@@ -56,7 +61,9 @@ process.on('unhandledRejection', error => {
 
 (async () => {
     const browser = await puppeteer.launch();
+    console.log(`Browser Launched`);
     const page = await browser.newPage();
+    console.log(`New Page`);
     for (const url of urls) {
         await page.goto(url, {waitUntil: 'domcontentloaded'});
         
@@ -74,7 +81,7 @@ process.on('unhandledRejection', error => {
         );
         const types_serial = [];
         for (const type of types) {
-            const type_serial = type.replace(/(\s+$)|\d|[()]/gi, '');
+            const type_serial = type.replace(/(\s+$)|(\s+\W)|\d|[()]/gi, '');
             types_serial.push(type_serial);
         }
         const types_set = new Set(types_serial);
@@ -88,40 +95,67 @@ process.on('unhandledRejection', error => {
         const variations_no_dup = [...variations_set];
         console.log(`Variation set acquired: ${variations_no_dup}`);
 
-        const Obj = {
+        const sentences = await page.evaluate(() => 
+            Array.from($('.ex-sent'), element => element.textContent)
+        );
+        const Obj_ideas = [];
+        for (const sentence of sentences) {
+            const subSentences = sentence.match(/([^\.!\?]+[\.!\?]+)/g);
+            try {
+                for (const sentence of subSentences) {
+                    const words = sentence.split(" ");
+                    const words_serial = [];
+                    for (const word of words) {
+                        words_serial.push(word.replace(/\W/gi, ''))
+                    }
+                    const words_filtered = words_serial.filter(el => el)
+                    const words_set = new Set(words_filtered);
+                    const words_no_dup = [...words_set];
+                    const sentence_serial = sentence.replace(/^\s*|^\t|\s+$|\t|\n|\"|\-+\s*/gi, '')
+                    if (sentence_serial.length > 0) {
+                        Obj_ideas.push({
+                            sentence: sentence_serial,
+                            words: words_no_dup,
+                        })
+                    }
+                }
+            } catch (error) {
+                console.log(error)
+            }
+        }
+
+        const Obj_word = {
             root: words_no_dup[0],
             words: words_no_dup,
             variations: variations_no_dup,
             types: types_no_dup,
         };
-        console.log(`New Entry: ${Obj.root}`);
-        fs.readFile('./lists/KnownWords.json', function readFileCallback(err, data){
+        console.log(`New Entry: ${Obj_word.root}`);
+        fs.readFile('./lists/data.json', function readFileCallback(err, data){
             if (err){
-                console.log(err);
-                const json_init = {table: [Obj]}
-                const json = JSON.stringify(json_init, null, 2);
-                fs.writeFile('./lists/KnownWords.json', json, function (){
-                    console.log(`File Written with: ${Obj}`)
-                });
+                return console.log(err);
             } else {
-                const parsed_json_known_words = JSON.parse(data);
-                const dupCheck = [];
-
-                function wordExists(word) { 
-                    return word.root === Obj.root;
+                const json_data = JSON.parse(data);
+                const dictionary = json_data.dictionary;
+                const ideas = json_data.ideas;
+                const weights = json_data.weights;
+                const wordExists = (word) => { 
+                    return word.root === Obj_word.root;
                   }
-                  
-                dupCheck.push(parsed_json_known_words.table.find(wordExists))
-                console.log(dupCheck)
-                if (dupCheck[0] === undefined) {
-                    parsed_json_known_words.table.push(Obj); //add some data
-                    const new_json = JSON.stringify(parsed_json_known_words, null, 2); //convert it back to json
-                    fs.writeFile('./lists/KnownWords.json', new_json, function(){
-                        console.log('Data appended')
-                    }); // write it back 
+                const dupCheck = dictionary.find(wordExists)
+                if (dupCheck === undefined) {
+                    dictionary.push(Obj_word); //add word to dictionary
                 } else { 
-                    return console.log(`${Obj.root} is a known word`)
+                    console.log(`${Obj_word.root} is a known word`)
+                    console.log('Operation aborted')
                 }
+                for (const idea of Obj_ideas) {
+                    ideas.push(idea);
+                }
+                const new_json = JSON.stringify(json_data, null, 2); //convert it back to json
+                fs.writeFile('./lists/data.json', new_json, function(){
+                }); // write it back 
+                console.log('File saved')
         }});
     }
     

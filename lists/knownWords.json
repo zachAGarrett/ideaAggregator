@@ -1948,5 +1948,124 @@
         "types": [
             "adjective"
         ]
+    },
+    {
+        "root": "where",
+        "variants": [
+            "where",
+            "wheres"
+        ],
+        "types": [
+            "noun"
+        ]
+    },
+    {
+        "root": "worth",
+        "variants": [
+            "worth"
+        ],
+        "types": [
+            "adjective"
+        ]
+    },
+    {
+        "root": "page",
+        "variants": [
+            "page",
+            "pages",
+            "paged",
+            "paging"
+        ],
+        "types": [
+            "noun",
+            "verb"
+        ]
+    },
+    {
+        "root": "where",
+        "variants": [
+            "where",
+            "wheres"
+        ],
+        "types": [
+            "noun"
+        ]
+    },
+    {
+        "root": "worth",
+        "variants": [
+            "worth"
+        ],
+        "types": [
+            "adjective"
+        ]
+    },
+    {
+        "root": "where",
+        "variants": [
+            "where",
+            "wheres"
+        ],
+        "types": [
+            "noun"
+        ]
+    },
+    {
+        "root": "worth",
+        "variants": [
+            "worth"
+        ],
+        "types": [
+            "adjective"
+        ]
+    },
+    {
+        "root": "enough",
+        "variants": [
+            "enough"
+        ],
+        "types": [
+            "adjective"
+        ]
+    },
+    {
+        "root": "AND",
+        "variants": [
+            "AND",
+            "ANDs"
+        ],
+        "types": [
+            "noun"
+        ]
+    },
+    {
+        "root": "number",
+        "variants": [
+            "number",
+            "numbers",
+            "numberable",
+            "numbered",
+            "numberer",
+            "numberers",
+            "numbering"
+        ],
+        "types": [
+            "noun",
+            "verb"
+        ]
+    },
+    {
+        "root": "numb",
+        "variants": [
+            "numb",
+            "number",
+            "numbest",
+            "numbly",
+            "numbness",
+            "numbnesses"
+        ],
+        "types": [
+            "adjective"
+        ]
     }
 ]
