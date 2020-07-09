@@ -1,0 +1,344 @@
+[
+  {
+    "id": "ckced3yg40000nkuu51zrh1d9",
+    "bounds": 303,
+    "sentence": [
+      {
+        "pair": "we-are",
+        "x": 9,
+        "y": 0,
+        "val": 1
+      },
+      {
+        "pair": "we-in",
+        "x": 6,
+        "y": 0,
+        "val": 1
+      },
+      {
+        "pair": "we-his",
+        "x": 7,
+        "y": 0,
+        "val": 1
+      },
+      {
+        "pair": "we-office",
+        "x": 8,
+        "y": 0,
+        "val": 1
+      },
+      {
+        "pair": "in-are",
+        "x": 236,
+        "y": 9,
+        "val": 1
+      },
+      {
+        "pair": "his-are",
+        "x": 48,
+        "y": 11,
+        "val": 1
+      },
+      {
+        "pair": "office-are",
+        "x": 162,
+        "y": 12,
+        "val": 1
+      },
+      {
+        "pair": "in-his",
+        "x": 234,
+        "y": 9,
+        "val": 1
+      },
+      {
+        "pair": "in-office",
+        "x": 235,
+        "y": 9,
+        "val": 1
+      },
+      {
+        "pair": "his-office",
+        "x": 47,
+        "y": 11,
+        "val": 1
+      }
+    ]
+  },
+  {
+    "id": "ckcefb23e0000c8uu09u5ae7v",
+    "bounds": 303,
+    "sentence": [
+      {
+        "pair": "our-friends",
+        "x": 231,
+        "y": 77,
+        "val": 1
+      },
+      {
+        "pair": "our-will",
+        "x": 98,
+        "y": 77,
+        "val": 1
+      },
+      {
+        "pair": "read-our",
+        "x": 283,
+        "y": 24,
+        "val": 1
+      },
+      {
+        "pair": "books-our",
+        "x": 51,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "and-our",
+        "x": 178,
+        "y": 35,
+        "val": 1
+      },
+      {
+        "pair": "our-news",
+        "x": 242,
+        "y": 77,
+        "val": 1
+      },
+      {
+        "pair": "at-our",
+        "x": 90,
+        "y": 61,
+        "val": 1
+      },
+      {
+        "pair": "the-our",
+        "x": 52,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "library-our",
+        "x": 87,
+        "y": 30,
+        "val": 1
+      },
+      {
+        "pair": "will-friends",
+        "x": 45,
+        "y": 86,
+        "val": 1
+      },
+      {
+        "pair": "read-friends",
+        "x": 120,
+        "y": 25,
+        "val": 1
+      },
+      {
+        "pair": "books-friends",
+        "x": 191,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "and-friends",
+        "x": 15,
+        "y": 36,
+        "val": 1
+      },
+      {
+        "pair": "friends-news",
+        "x": 241,
+        "y": 214,
+        "val": 1
+      },
+      {
+        "pair": "at-friends",
+        "x": 230,
+        "y": 61,
+        "val": 1
+      },
+      {
+        "pair": "the-friends",
+        "x": 192,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "library-friends",
+        "x": 227,
+        "y": 30,
+        "val": 1
+      },
+      {
+        "pair": "read-will",
+        "x": 290,
+        "y": 24,
+        "val": 1
+      },
+      {
+        "pair": "books-will",
+        "x": 58,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "and-will",
+        "x": 185,
+        "y": 35,
+        "val": 1
+      },
+      {
+        "pair": "will-news",
+        "x": 56,
+        "y": 86,
+        "val": 1
+      },
+      {
+        "pair": "at-will",
+        "x": 97,
+        "y": 61,
+        "val": 1
+      },
+      {
+        "pair": "the-will",
+        "x": 59,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "library-will",
+        "x": 94,
+        "y": 30,
+        "val": 1
+      },
+      {
+        "pair": "books-read",
+        "x": 10,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "read-and",
+        "x": 250,
+        "y": 24,
+        "val": 1
+      },
+      {
+        "pair": "read-news",
+        "x": 131,
+        "y": 25,
+        "val": 1
+      },
+      {
+        "pair": "read-at",
+        "x": 270,
+        "y": 24,
+        "val": 1
+      },
+      {
+        "pair": "the-read",
+        "x": 11,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "read-library",
+        "x": 246,
+        "y": 24,
+        "val": 1
+      },
+      {
+        "pair": "books-and",
+        "x": 18,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "books-news",
+        "x": 202,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "books-at",
+        "x": 38,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "the-books",
+        "x": 6,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "books-library",
+        "x": 14,
+        "y": 18,
+        "val": 1
+      },
+      {
+        "pair": "and-news",
+        "x": 26,
+        "y": 36,
+        "val": 1
+      },
+      {
+        "pair": "and-at",
+        "x": 165,
+        "y": 35,
+        "val": 1
+      },
+      {
+        "pair": "the-and",
+        "x": 19,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "library-and",
+        "x": 54,
+        "y": 30,
+        "val": 1
+      },
+      {
+        "pair": "at-news",
+        "x": 241,
+        "y": 61,
+        "val": 1
+      },
+      {
+        "pair": "the-news",
+        "x": 203,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "library-news",
+        "x": 238,
+        "y": 30,
+        "val": 1
+      },
+      {
+        "pair": "the-at",
+        "x": 39,
+        "y": 7,
+        "val": 1
+      },
+      {
+        "pair": "library-at",
+        "x": 74,
+        "y": 30,
+        "val": 1
+      },
+      {
+        "pair": "the-library",
+        "x": 15,
+        "y": 7,
+        "val": 1
+      }
+    ]
+  }
+]

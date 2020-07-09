@@ -3,19 +3,20 @@ const fs = require('fs');
 const cheerio = require('cheerio');
 
 
-const new_words = [];
+const new_words = ['man'];
 const urls = [];
 
-const json = fs.readFileSync('./lists/WordBank.json', 'utf8');
-const parsed_json = JSON.parse(json);
-for (const word of parsed_json) {
-    new_words.push(word)
-}
+// const json = fs.readFileSync('./lists/WordBank.json', 'utf8');
+// const parsed_json = JSON.parse(json);
+// for (const word of parsed_json) {
+//     new_words.push(word)
+// }
 const readDictionary = () => {
     const json_data = fs.readFileSync('./lists/data.json', 'utf8');
     const parsed_json_data = JSON.parse(json_data);
-    console.log(`I currently know ${parsed_json_data.dictionary.length} words.`)
-    console.log(`I am tracking ${parsed_json_data.ideas.length} ideas.`)
+    console.log(`I currently know ${parsed_json_data.dictionary.length} words.`);
+    console.log(`I have logged ${parsed_json_data.ideas.length} ideas.`);
+    console.log(`I am tracking weights for ${parsed_json_data.weights.length} words.`);
     if (parsed_json_data.dictionary.length > 0) {
         for (const word of parsed_json_data.dictionary) {
             known_words.push(word.root);
@@ -29,7 +30,11 @@ try {
     readDictionary();
 } catch (error) {
     console.log(error);
-    const Obj_init = {dictionary: [], ideas: [], weights: []};
+    const Obj_init = {
+        dictionary: [],
+        ideas: [],
+        weights: [],
+    };
     const json_init = JSON.stringify(Obj_init, null, 2);
     fs.writeFileSync('./lists/data.json', json_init, function (err,data){
         if (err) {
@@ -100,9 +105,17 @@ process.on('unhandledRejection', error => {
         );
         const Obj_ideas = [];
         for (const sentence of sentences) {
-            const subSentences = sentence.match(/([^\.!\?]+[\.!\?]+)/g);
+            const subSentences = sentence.match(/([^\.!\?]+[\.!\?])/g);
             try {
-                for (const sentence of subSentences) {
+                const sentencesCorrected = []
+                for (let i = 0; i < subSentences.length; i ++) {
+                  const tester = subSentences[i].match(/\w/g).length > 2 
+                  ? sentencesCorrected.push(subSentences[i]) 
+                  : (sentencesCorrected[i-1] = sentencesCorrected[i-1]
+                  + subSentences[i]
+                  + subSentences[i+1]) && i++;
+                }
+                for (const sentence of sentencesCorrected) {
                     const words = sentence.split(" ");
                     const words_serial = [];
                     for (const word of words) {
@@ -116,6 +129,7 @@ process.on('unhandledRejection', error => {
                         Obj_ideas.push({
                             sentence: sentence_serial,
                             words: words_no_dup,
+                            evaluated: false,
                         })
                     }
                 }
@@ -138,7 +152,6 @@ process.on('unhandledRejection', error => {
                 const json_data = JSON.parse(data);
                 const dictionary = json_data.dictionary;
                 const ideas = json_data.ideas;
-                const weights = json_data.weights;
                 const wordExists = (word) => { 
                     return word.root === Obj_word.root;
                   }
@@ -156,8 +169,8 @@ process.on('unhandledRejection', error => {
                 fs.writeFile('./lists/data.json', new_json, function(){
                 }); // write it back 
                 console.log('File saved')
-        }});
+            }
+        });
     }
-    
     await browser.close();
 })();

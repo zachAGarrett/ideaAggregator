@@ -1,0 +1,5838 @@
+{
+  "dictionary": [
+    {
+      "root": "we",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "booked",
+      "types": {
+        "verb": [
+          "cognition",
+          "social"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "out",
+      "types": {
+        "noun": [
+          "act"
+        ],
+        "verb": [
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "of",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "there",
+      "types": {
+        "noun": [
+          "location"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "the",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "shelves",
+      "types": {
+        "noun": [
+          "artifact",
+          "object"
+        ],
+        "verb": [
+          "stative",
+          "contact"
+        ]
+      }
+    },
+    {
+      "root": "in",
+      "types": {
+        "noun": [
+          "quantity",
+          "substance",
+          "location"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "his",
+      "types": {
+        "noun": [
+          "communication",
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "office",
+      "types": {
+        "noun": [
+          "artifact",
+          "group",
+          "act",
+          "state"
+        ]
+      }
+    },
+    {
+      "root": "are",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "verb": [
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "filled",
+      "types": {
+        "verb": [
+          "change",
+          "stative",
+          "social",
+          "consumption"
+        ],
+        "adjective": [
+          "all",
+          "ppl"
+        ]
+      }
+    },
+    {
+      "root": "with",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "books",
+      "types": {
+        "noun": [
+          "communication",
+          "artifact",
+          "possession",
+          "group"
+        ],
+        "verb": [
+          "cognition",
+          "social"
+        ]
+      }
+    },
+    {
+      "root": "thats",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "one",
+      "types": {
+        "noun": [
+          "quantity",
+          "cognition"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "best",
+      "types": {
+        "noun": [
+          "act",
+          "person"
+        ],
+        "verb": [
+          "competition"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "ive",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "read",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "verb": [
+          "cognition",
+          "stative",
+          "communication",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "a",
+      "types": {
+        "noun": [
+          "quantity",
+          "substance",
+          "communication",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "long",
+      "types": {
+        "verb": [
+          "emotion"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "time",
+      "types": {
+        "noun": [
+          "event",
+          "time",
+          "Tops",
+          "attribute"
+        ],
+        "verb": [
+          "change",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "library",
+      "types": {
+        "noun": [
+          "artifact",
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "has",
+      "types": {
+        "noun": [
+          "shape"
+        ],
+        "verb": [
+          "possession",
+          "stative",
+          "perception",
+          "change",
+          "consumption",
+          "social",
+          "creation",
+          "body",
+          "communication",
+          "contact"
+        ]
+      }
+    },
+    {
+      "root": "many",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "dictionaries",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "and",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "other",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "reference",
+      "types": {
+        "noun": [
+          "communication",
+          "cognition",
+          "act"
+        ],
+        "verb": [
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "schooling",
+      "types": {
+        "noun": [
+          "act",
+          "cognition"
+        ],
+        "verb": [
+          "social",
+          "motion"
+        ]
+      }
+    },
+    {
+      "root": "provided",
+      "types": {
+        "verb": [
+          "possession",
+          "consumption",
+          "communication",
+          "social",
+          "stative",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "him",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "extensive",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "book",
+      "types": {
+        "noun": [
+          "communication",
+          "artifact",
+          "possession",
+          "group"
+        ],
+        "verb": [
+          "cognition",
+          "social"
+        ]
+      }
+    },
+    {
+      "root": "knowledge",
+      "types": {
+        "noun": [
+          "Tops"
+        ]
+      }
+    },
+    {
+      "root": "she",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "had",
+      "types": {
+        "verb": [
+          "possession",
+          "stative",
+          "perception",
+          "change",
+          "consumption",
+          "social",
+          "creation",
+          "body",
+          "communication",
+          "contact"
+        ]
+      }
+    },
+    {
+      "root": "plenty",
+      "types": {
+        "noun": [
+          "attribute",
+          "quantity"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "learning",
+      "types": {
+        "noun": [
+          "cognition"
+        ],
+        "verb": [
+          "cognition",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "but",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "no",
+      "types": {
+        "noun": [
+          "communication",
+          "substance"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "hands-on",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "experience",
+      "types": {
+        "noun": [
+          "cognition",
+          "event"
+        ],
+        "verb": [
+          "perception",
+          "cognition",
+          "emotion",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "they",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "two",
+      "types": {
+        "noun": [
+          "quantity",
+          "artifact"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "seats",
+      "types": {
+        "noun": [
+          "location",
+          "body",
+          "artifact",
+          "attribute"
+        ],
+        "verb": [
+          "contact",
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "at",
+      "types": {
+        "noun": [
+          "substance",
+          "quantity"
+        ]
+      }
+    },
+    {
+      "root": "theater",
+      "types": {
+        "noun": [
+          "artifact",
+          "communication",
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "tickets",
+      "types": {
+        "noun": [
+          "communication",
+          "attribute"
+        ],
+        "verb": [
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "for",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "direct",
+      "types": {
+        "verb": [
+          "communication",
+          "competition",
+          "creation",
+          "social",
+          "motion",
+          "cognition"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "flight",
+      "types": {
+        "noun": [
+          "group",
+          "act",
+          "artifact",
+          "cognition",
+          "phenomenon"
+        ],
+        "verb": [
+          "social",
+          "motion",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "from",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "london",
+      "types": {
+        "noun": [
+          "location",
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "to",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "new",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "york",
+      "types": {
+        "noun": [
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "i",
+      "types": {
+        "noun": [
+          "substance",
+          "quantity",
+          "communication",
+          "location"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "table",
+      "types": {
+        "noun": [
+          "group",
+          "artifact",
+          "object",
+          "food"
+        ],
+        "verb": [
+          "stative",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "our",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "favorite",
+      "types": {
+        "noun": [
+          "cognition",
+          "person"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "restaurant",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "through",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "her",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "travel",
+      "types": {
+        "noun": [
+          "act",
+          "event"
+        ],
+        "verb": [
+          "motion"
+        ]
+      }
+    },
+    {
+      "root": "agent",
+      "types": {
+        "noun": [
+          "object",
+          "person",
+          "substance",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "will",
+      "types": {
+        "noun": [
+          "cognition",
+          "communication"
+        ],
+        "verb": [
+          "communication",
+          "cognition",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "need",
+      "types": {
+        "noun": [
+          "state",
+          "object",
+          "Tops"
+        ],
+        "verb": [
+          "stative",
+          "consumption"
+        ]
+      }
+    },
+    {
+      "root": "early",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "me",
+      "types": {
+        "noun": [
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "on",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "oslo",
+      "types": {
+        "noun": [
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "paris",
+      "types": {
+        "noun": [
+          "location",
+          "plant",
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "he",
+      "types": {
+        "noun": [
+          "substance",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "was",
+      "types": {
+        "noun": [
+          "location"
+        ],
+        "verb": [
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "sail",
+      "types": {
+        "noun": [
+          "artifact",
+          "act"
+        ],
+        "verb": [
+          "motion"
+        ]
+      }
+    },
+    {
+      "root": "monday",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "band",
+      "types": {
+        "noun": [
+          "group",
+          "attribute",
+          "artifact",
+          "communication",
+          "body"
+        ],
+        "verb": [
+          "contact"
+        ]
+      }
+    },
+    {
+      "root": "play",
+      "types": {
+        "noun": [
+          "communication",
+          "act",
+          "state",
+          "time",
+          "event",
+          "attribute"
+        ],
+        "verb": [
+          "competition",
+          "social",
+          "creation",
+          "body",
+          "motion",
+          "contact",
+          "consumption",
+          "cognition",
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "reception",
+      "types": {
+        "noun": [
+          "communication",
+          "group",
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "reached",
+      "types": {
+        "verb": [
+          "motion",
+          "contact",
+          "communication",
+          "social",
+          "stative",
+          "possession",
+          "competition"
+        ]
+      }
+    },
+    {
+      "root": "3",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "times",
+      "types": {
+        "noun": [
+          "event",
+          "time",
+          "Tops",
+          "attribute",
+          "act"
+        ],
+        "verb": [
+          "change",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "nonfiction",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "bestseller",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "list",
+      "types": {
+        "noun": [
+          "communication",
+          "attribute"
+        ],
+        "verb": [
+          "communication",
+          "social",
+          "motion"
+        ]
+      }
+    },
+    {
+      "root": "steven",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "kurutz",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "bostonglobe",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "into",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "this",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "role",
+      "types": {
+        "noun": [
+          "act",
+          "cognition",
+          "attribute"
+        ]
+      }
+    },
+    {
+      "root": "steps",
+      "types": {
+        "noun": [
+          "act",
+          "quantity",
+          "artifact",
+          "state",
+          "event",
+          "communication",
+          "object"
+        ],
+        "verb": [
+          "motion",
+          "social",
+          "possession",
+          "contact",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "native",
+      "types": {
+        "noun": [
+          "person",
+          "Tops"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "south",
+      "types": {
+        "noun": [
+          "location",
+          "relation"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "floridian",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "memoirist",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "kent",
+      "types": {
+        "noun": [
+          "location",
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "russell",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "sharp",
+      "types": {
+        "noun": [
+          "communication",
+          "artifact"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "brilliant",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "mean",
+      "types": {
+        "noun": [
+          "cognition"
+        ],
+        "verb": [
+          "communication",
+          "stative",
+          "cognition"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "exasperating",
+      "types": {
+        "verb": [
+          "emotion",
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "hybrid",
+      "types": {
+        "noun": [
+          "communication",
+          "cognition",
+          "animal"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "land",
+      "types": {
+        "noun": [
+          "possession",
+          "object",
+          "location",
+          "state",
+          "group",
+          "person",
+          "act"
+        ],
+        "verb": [
+          "motion",
+          "change",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "good",
+      "types": {
+        "noun": [
+          "attribute",
+          "artifact"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "living",
+      "types": {
+        "noun": [
+          "cognition",
+          "group",
+          "state",
+          "possession"
+        ],
+        "verb": [
+          "stative",
+          "cognition"
+        ],
+        "adjective": [
+          "pert",
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "white",
+      "types": {
+        "noun": [
+          "person",
+          "attribute",
+          "object",
+          "food",
+          "artifact"
+        ],
+        "verb": [
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "house",
+      "types": {
+        "noun": [
+          "artifact",
+          "group",
+          "act",
+          "location"
+        ],
+        "verb": [
+          "stative",
+          "social"
+        ]
+      }
+    },
+    {
+      "root": "is",
+      "types": {
+        "noun": [
+          "substance",
+          "quantity",
+          "communication"
+        ],
+        "verb": [
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "seeking",
+      "types": {
+        "noun": [
+          "act"
+        ],
+        "verb": [
+          "possession",
+          "contact",
+          "social",
+          "motion",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "block",
+      "types": {
+        "noun": [
+          "artifact",
+          "location",
+          "shape",
+          "group",
+          "quantity",
+          "cognition",
+          "act"
+        ],
+        "verb": [
+          "contact",
+          "social",
+          "communication",
+          "perception",
+          "competition",
+          "cognition",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "public",
+      "types": {
+        "noun": [
+          "group"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "release",
+      "types": {
+        "noun": [
+          "artifact",
+          "act",
+          "process",
+          "communication",
+          "event"
+        ],
+        "verb": [
+          "contact",
+          "social",
+          "communication",
+          "body",
+          "possession",
+          "creation",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "boltons",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "saying",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "verb": [
+          "communication",
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "it",
+      "types": {
+        "noun": [
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "being",
+      "types": {
+        "noun": [
+          "state",
+          "Tops"
+        ],
+        "verb": [
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "published",
+      "types": {
+        "verb": [
+          "creation",
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "without",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "formal",
+      "types": {
+        "noun": [
+          "event",
+          "artifact"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "authorization",
+      "types": {
+        "noun": [
+          "communication",
+          "attribute",
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "that",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "manuscript",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "free",
+      "types": {
+        "noun": [
+          "group"
+        ],
+        "verb": [
+          "social",
+          "possession",
+          "contact",
+          "communication",
+          "creation",
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "classified",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "verb": [
+          "cognition",
+          "social"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "information",
+      "types": {
+        "noun": [
+          "communication",
+          "cognition",
+          "group",
+          "attribute"
+        ]
+      }
+    },
+    {
+      "root": "says",
+      "types": {
+        "noun": [
+          "state"
+        ],
+        "verb": [
+          "communication",
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "donald",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "trump",
+      "types": {
+        "noun": [
+          "artifact"
+        ],
+        "verb": [
+          "perception",
+          "competition",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "tried",
+      "types": {
+        "verb": [
+          "social",
+          "consumption",
+          "emotion",
+          "change",
+          "body"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "persuade",
+      "types": {
+        "verb": [
+          "social",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "xi",
+      "types": {
+        "noun": [
+          "quantity",
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "jinping",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "chinas",
+      "types": {
+        "noun": [
+          "location",
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "president",
+      "types": {
+        "noun": [
+          "person",
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "buy",
+      "types": {
+        "noun": [
+          "possession"
+        ],
+        "verb": [
+          "possession",
+          "stative",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "american",
+      "types": {
+        "noun": [
+          "person",
+          "communication"
+        ],
+        "adjective": [
+          "pert"
+        ]
+      }
+    },
+    {
+      "root": "farm",
+      "types": {
+        "noun": [
+          "artifact"
+        ],
+        "verb": [
+          "social",
+          "possession",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "goods",
+      "types": {
+        "noun": [
+          "attribute",
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "help",
+      "types": {
+        "noun": [
+          "act",
+          "person",
+          "attribute"
+        ],
+        "verb": [
+          "social",
+          "body",
+          "stative",
+          "consumption",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "re-election",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "campaign",
+      "types": {
+        "noun": [
+          "event",
+          "act"
+        ],
+        "verb": [
+          "competition",
+          "social"
+        ]
+      }
+    },
+    {
+      "root": "leading",
+      "types": {
+        "noun": [
+          "artifact",
+          "act"
+        ],
+        "verb": [
+          "motion",
+          "stative",
+          "communication",
+          "social",
+          "creation"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "hits",
+      "types": {
+        "noun": [
+          "act",
+          "event",
+          "artifact"
+        ],
+        "verb": [
+          "contact",
+          "motion",
+          "competition",
+          "possession",
+          "perception",
+          "social",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "were",
+      "types": {
+        "verb": [
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "losses",
+      "types": {
+        "noun": [
+          "possession",
+          "process",
+          "act",
+          "attribute",
+          "event"
+        ]
+      }
+    },
+    {
+      "root": "supreme",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "court",
+      "types": {
+        "noun": [
+          "group",
+          "artifact",
+          "person",
+          "act"
+        ],
+        "verb": [
+          "social"
+        ]
+      }
+    },
+    {
+      "root": "bolton",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "nonethless",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "lamberth",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "frowned",
+      "types": {
+        "verb": [
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "upon",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "way",
+      "types": {
+        "noun": [
+          "attribute",
+          "act",
+          "location",
+          "state",
+          "artifact",
+          "quantity",
+          "cognition",
+          "possession"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "went",
+      "types": {
+        "verb": [
+          "motion",
+          "social",
+          "change",
+          "stative",
+          "perception",
+          "contact",
+          "consumption",
+          "competition",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "about",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "publishing",
+      "types": {
+        "noun": [
+          "act"
+        ],
+        "verb": [
+          "creation",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "as",
+      "types": {
+        "noun": [
+          "quantity",
+          "substance",
+          "communication",
+          "body",
+          "location"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "justice",
+      "types": {
+        "noun": [
+          "attribute",
+          "act",
+          "person",
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "department",
+      "types": {
+        "noun": [
+          "group",
+          "location",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "claims",
+      "types": {
+        "noun": [
+          "communication",
+          "act",
+          "attribute"
+        ],
+        "verb": [
+          "communication",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "usundefined",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "highly",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "plausible",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "caricature",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "verb": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "john",
+      "types": {
+        "noun": [
+          "artifact",
+          "person",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "also",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "completely",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "unsurprising",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "holman",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "w",
+      "types": {
+        "noun": [
+          "substance",
+          "relation",
+          "quantity",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "broward",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "county",
+      "types": {
+        "noun": [
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "foundations",
+      "types": {
+        "noun": [
+          "relation",
+          "group",
+          "artifact",
+          "cognition",
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "biggest",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "event",
+      "types": {
+        "noun": [
+          "Tops",
+          "state",
+          "phenomenon"
+        ]
+      }
+    },
+    {
+      "root": "year",
+      "types": {
+        "noun": [
+          "time",
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "literary",
+      "types": {
+        "adjective": [
+          "pert",
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "feast",
+      "types": {
+        "noun": [
+          "group",
+          "event",
+          "food"
+        ],
+        "verb": [
+          "consumption"
+        ]
+      }
+    },
+    {
+      "root": "organization",
+      "types": {
+        "noun": [
+          "group",
+          "cognition",
+          "act",
+          "attribute"
+        ]
+      }
+    },
+    {
+      "root": "plans",
+      "types": {
+        "noun": [
+          "cognition",
+          "artifact"
+        ],
+        "verb": [
+          "cognition",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "events",
+      "types": {
+        "noun": [
+          "Tops",
+          "state",
+          "phenomenon"
+        ]
+      }
+    },
+    {
+      "root": "year-round",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "oline",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "h",
+      "types": {
+        "noun": [
+          "substance",
+          "quantity",
+          "communication",
+          "attribute"
+        ]
+      }
+    },
+    {
+      "root": "cogdill",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "sun-sentinel",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "com",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "december",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "jewish",
+      "types": {
+        "adjective": [
+          "pert"
+        ]
+      }
+    },
+    {
+      "root": "humor",
+      "types": {
+        "noun": [
+          "communication",
+          "attribute",
+          "feeling",
+          "body"
+        ],
+        "verb": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "mar-a-lago",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "history",
+      "types": {
+        "noun": [
+          "time",
+          "communication",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "hermit",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "crab",
+      "types": {
+        "noun": [
+          "animal",
+          "person",
+          "location",
+          "food",
+          "act"
+        ],
+        "verb": [
+          "motion",
+          "competition",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "poetry",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "25",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "nov",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "friends",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "sale",
+      "types": {
+        "noun": [
+          "act",
+          "state",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "milpitas",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "host",
+      "types": {
+        "noun": [
+          "person",
+          "group",
+          "animal",
+          "food",
+          "artifact"
+        ],
+        "verb": [
+          "consumption"
+        ]
+      }
+    },
+    {
+      "root": "sept",
+      "types": {
+        "noun": [
+          "time",
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "27-29",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "librarys",
+      "types": {
+        "noun": [
+          "artifact",
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "auditorium",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "anne",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "gelhaus",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "mercury",
+      "types": {
+        "noun": [
+          "substance",
+          "person",
+          "object",
+          "attribute"
+        ]
+      }
+    },
+    {
+      "root": "news",
+      "types": {
+        "noun": [
+          "communication",
+          "attribute"
+        ]
+      }
+    },
+    {
+      "root": "community",
+      "types": {
+        "noun": [
+          "group",
+          "possession",
+          "state",
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "briefs",
+      "types": {
+        "noun": [
+          "communication",
+          "artifact"
+        ],
+        "verb": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "week",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "27",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "23",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "sep",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "campbell",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "monthly",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "set",
+      "types": {
+        "noun": [
+          "group",
+          "act",
+          "artifact",
+          "cognition",
+          "time",
+          "process",
+          "person",
+          "event"
+        ],
+        "verb": [
+          "contact",
+          "cognition",
+          "communication",
+          "change",
+          "creation",
+          "motion",
+          "competition",
+          "body"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "14",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "features",
+      "types": {
+        "noun": [
+          "cognition",
+          "body",
+          "communication",
+          "artifact"
+        ],
+        "verb": [
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "used",
+      "types": {
+        "verb": [
+          "consumption",
+          "social"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "fiction",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "comics",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "art",
+      "types": {
+        "noun": [
+          "artifact",
+          "act",
+          "cognition",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "cookbooks",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "childrens",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "collectibles",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "6",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "easy",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "report",
+      "types": {
+        "noun": [
+          "communication",
+          "event",
+          "cognition"
+        ],
+        "verb": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "research",
+      "types": {
+        "noun": [
+          "act",
+          "cognition"
+        ],
+        "verb": [
+          "communication",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "become",
+      "types": {
+        "verb": [
+          "change",
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "dont",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "expect",
+      "types": {
+        "verb": [
+          "cognition",
+          "communication",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "google",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "verb": [
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "give",
+      "types": {
+        "noun": [
+          "attribute"
+        ],
+        "verb": [
+          "possession",
+          "communication",
+          "creation",
+          "cognition",
+          "social",
+          "motion",
+          "consumption",
+          "contact",
+          "change",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "your",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "child",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "full",
+      "types": {
+        "noun": [
+          "time"
+        ],
+        "verb": [
+          "contact",
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "picture",
+      "types": {
+        "noun": [
+          "artifact",
+          "cognition",
+          "state",
+          "communication"
+        ],
+        "verb": [
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "adolescence",
+      "types": {
+        "noun": [
+          "time",
+          "state"
+        ]
+      }
+    },
+    {
+      "root": "sunnyvale",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "holding",
+      "types": {
+        "noun": [
+          "act",
+          "possession"
+        ],
+        "verb": [
+          "stative",
+          "contact",
+          "creation",
+          "possession",
+          "cognition",
+          "emotion",
+          "social",
+          "competition",
+          "communication",
+          "motion",
+          "consumption",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "july",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "20",
+      "types": {
+        "noun": [
+          "quantity"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "thousands",
+      "types": {
+        "noun": [
+          "quantity"
+        ]
+      }
+    },
+    {
+      "root": "movies",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "music",
+      "types": {
+        "noun": [
+          "communication",
+          "cognition",
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "cds",
+      "types": {
+        "noun": [
+          "substance",
+          "quantity",
+          "possession",
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "even",
+      "types": {
+        "noun": [
+          "time"
+        ],
+        "verb": [
+          "contact",
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "before",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "all",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "leakage",
+      "types": {
+        "noun": [
+          "event"
+        ]
+      }
+    },
+    {
+      "root": "started",
+      "types": {
+        "verb": [
+          "change",
+          "motion",
+          "stative",
+          "creation",
+          "social",
+          "competition"
+        ]
+      }
+    },
+    {
+      "root": "thrones",
+      "types": {
+        "noun": [
+          "artifact",
+          "act"
+        ],
+        "verb": [
+          "social"
+        ]
+      }
+    },
+    {
+      "root": "fandom",
+      "types": {
+        "noun": [
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "especially",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "readers",
+      "types": {
+        "noun": [
+          "person",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "have",
+      "types": {
+        "noun": [
+          "person"
+        ],
+        "verb": [
+          "possession",
+          "stative",
+          "perception",
+          "change",
+          "consumption",
+          "social",
+          "creation",
+          "body",
+          "communication",
+          "contact"
+        ]
+      }
+    },
+    {
+      "root": "wondered",
+      "types": {
+        "verb": [
+          "cognition",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "years",
+      "types": {
+        "noun": [
+          "time",
+          "group"
+        ]
+      }
+    },
+    {
+      "root": "if",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "an",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "ice",
+      "types": {
+        "noun": [
+          "substance",
+          "object",
+          "possession",
+          "food",
+          "artifact"
+        ],
+        "verb": [
+          "contact",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "dragon",
+      "types": {
+        "noun": [
+          "person",
+          "object",
+          "animal"
+        ]
+      }
+    },
+    {
+      "root": "would",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "finally",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "appear",
+      "types": {
+        "verb": [
+          "perception",
+          "change",
+          "creation",
+          "social"
+        ]
+      }
+    },
+    {
+      "root": "joanna",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "robinson",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "hwd",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "why",
+      "types": {
+        "noun": [
+          "motive"
+        ]
+      }
+    },
+    {
+      "root": "game",
+      "types": {
+        "noun": [
+          "act",
+          "animal",
+          "time",
+          "quantity",
+          "food",
+          "cognition",
+          "artifact"
+        ],
+        "verb": [
+          "competition"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "fans",
+      "types": {
+        "noun": [
+          "artifact",
+          "person"
+        ],
+        "verb": [
+          "contact",
+          "change",
+          "motion"
+        ]
+      }
+    },
+    {
+      "root": "saw",
+      "types": {
+        "noun": [
+          "communication",
+          "artifact"
+        ],
+        "verb": [
+          "contact",
+          "perception",
+          "cognition",
+          "creation",
+          "motion",
+          "communication",
+          "social",
+          "competition"
+        ]
+      }
+    },
+    {
+      "root": "hideous",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "twist",
+      "types": {
+        "noun": [
+          "event",
+          "communication",
+          "act",
+          "state",
+          "shape",
+          "body"
+        ],
+        "verb": [
+          "motion",
+          "contact",
+          "change",
+          "stative",
+          "communication",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "coming",
+      "types": {
+        "noun": [
+          "act",
+          "attribute"
+        ],
+        "verb": [
+          "motion",
+          "change",
+          "stative",
+          "cognition",
+          "perception"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "aug",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "vanityfair",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "deal",
+      "types": {
+        "noun": [
+          "act",
+          "communication",
+          "quantity",
+          "substance",
+          "group",
+          "event"
+        ],
+        "verb": [
+          "communication",
+          "cognition",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "could",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "capture",
+      "types": {
+        "noun": [
+          "act",
+          "process"
+        ],
+        "verb": [
+          "creation",
+          "emotion",
+          "contact",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "more",
+      "types": {
+        "noun": [
+          "person"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "traffic",
+      "types": {
+        "noun": [
+          "group",
+          "act",
+          "communication"
+        ],
+        "verb": [
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "between",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "united",
+      "types": {
+        "verb": [
+          "social",
+          "change",
+          "stative"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "states",
+      "types": {
+        "noun": [
+          "location",
+          "Tops",
+          "group",
+          "state"
+        ],
+        "verb": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "china",
+      "types": {
+        "noun": [
+          "location",
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "arrangements",
+      "types": {
+        "noun": [
+          "cognition",
+          "group",
+          "attribute",
+          "communication",
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "like",
+      "types": {
+        "noun": [
+          "cognition"
+        ],
+        "verb": [
+          "emotion",
+          "cognition"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "code",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "verb": [
+          "contact",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "sharing",
+      "types": {
+        "noun": [
+          "relation",
+          "communication",
+          "act"
+        ],
+        "verb": [
+          "stative",
+          "possession",
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "industry",
+      "types": {
+        "noun": [
+          "group",
+          "act",
+          "attribute"
+        ]
+      }
+    },
+    {
+      "root": "term",
+      "types": {
+        "noun": [
+          "communication",
+          "time",
+          "cognition",
+          "artifact"
+        ],
+        "verb": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "partnership",
+      "types": {
+        "noun": [
+          "group",
+          "relation",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "allows",
+      "types": {
+        "verb": [
+          "social",
+          "communication",
+          "possession",
+          "cognition",
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "airlines",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "easily",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "passengers",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "each",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "others",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "flights",
+      "types": {
+        "noun": [
+          "group",
+          "act",
+          "artifact",
+          "cognition",
+          "phenomenon"
+        ],
+        "verb": [
+          "social",
+          "motion",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "neil",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "gough",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "buys",
+      "types": {
+        "noun": [
+          "possession"
+        ],
+        "verb": [
+          "possession",
+          "stative",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "southern",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "stake",
+      "types": {
+        "noun": [
+          "possession",
+          "communication",
+          "artifact"
+        ],
+        "verb": [
+          "social",
+          "competition",
+          "contact"
+        ]
+      }
+    },
+    {
+      "root": "booms",
+      "types": {
+        "noun": [
+          "event",
+          "state",
+          "artifact"
+        ],
+        "verb": [
+          "perception",
+          "contact",
+          "weather",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "mar",
+      "types": {
+        "noun": [
+          "time",
+          "attribute"
+        ],
+        "verb": [
+          "change",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "ownership",
+      "types": {
+        "noun": [
+          "possession",
+          "act",
+          "state"
+        ]
+      }
+    },
+    {
+      "root": "intended",
+      "types": {
+        "verb": [
+          "cognition",
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "lots",
+      "types": {
+        "noun": [
+          "quantity",
+          "location",
+          "group",
+          "state",
+          "artifact",
+          "person"
+        ],
+        "verb": [
+          "social",
+          "possession"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "building",
+      "types": {
+        "noun": [
+          "artifact",
+          "act",
+          "group"
+        ],
+        "verb": [
+          "creation",
+          "change",
+          "social",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "so",
+      "types": {
+        "noun": [
+          "communication"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "far",
+      "types": {
+        "noun": [
+          "group"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "baseball",
+      "types": {
+        "noun": [
+          "act",
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "hasnt",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "been",
+      "types": {
+        "verb": [
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "among",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "them",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "back",
+      "types": {
+        "noun": [
+          "body",
+          "artifact",
+          "location",
+          "person",
+          "act"
+        ],
+        "verb": [
+          "social",
+          "motion",
+          "possession",
+          "stative",
+          "competition",
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "60s",
+      "types": {
+        "noun": [
+          "quantity"
+        ]
+      }
+    },
+    {
+      "root": "halls",
+      "types": {
+        "noun": [
+          "artifact",
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "father",
+      "types": {
+        "noun": [
+          "person"
+        ],
+        "verb": [
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "late",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "great",
+      "types": {
+        "noun": [
+          "person"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "producer",
+      "types": {
+        "noun": [
+          "person",
+          "event"
+        ]
+      }
+    },
+    {
+      "root": "songwriter",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "studio",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "mastermind",
+      "types": {
+        "noun": [
+          "person"
+        ],
+        "verb": [
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "rick",
+      "types": {
+        "noun": [
+          "state",
+          "group"
+        ],
+        "verb": [
+          "contact",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "hall",
+      "types": {
+        "noun": [
+          "artifact",
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "foresight",
+      "types": {
+        "noun": [
+          "attribute",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "photographer",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "major",
+      "types": {
+        "noun": [
+          "person",
+          "cognition"
+        ],
+        "verb": [
+          "cognition"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "sessions",
+      "types": {
+        "noun": [
+          "communication",
+          "time",
+          "act",
+          "group",
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "matt",
+      "types": {
+        "noun": [
+          "attribute"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "wake",
+      "types": {
+        "noun": [
+          "phenomenon",
+          "location",
+          "event",
+          "act"
+        ],
+        "verb": [
+          "body",
+          "emotion",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "mwakeal",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "lighthouse",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "built",
+      "types": {
+        "verb": [
+          "creation",
+          "change",
+          "social",
+          "cognition"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "1890s",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "cottage",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "recently",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "converted",
+      "types": {
+        "verb": [
+          "change",
+          "competition",
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "upscale",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "bbbook",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "lightkeepers",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "room",
+      "types": {
+        "noun": [
+          "artifact",
+          "quantity",
+          "state",
+          "group"
+        ],
+        "verb": [
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "view",
+      "types": {
+        "noun": [
+          "cognition",
+          "act",
+          "location",
+          "communication",
+          "artifact",
+          "attribute"
+        ],
+        "verb": [
+          "cognition",
+          "perception"
+        ]
+      }
+    },
+    {
+      "root": "itself",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "month",
+      "types": {
+        "noun": [
+          "time"
+        ]
+      }
+    },
+    {
+      "root": "ago",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "when",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "chance",
+      "types": {
+        "noun": [
+          "state",
+          "phenomenon",
+          "act",
+          "attribute"
+        ],
+        "verb": [
+          "social",
+          "possession"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "vacation",
+      "types": {
+        "noun": [
+          "time",
+          "act"
+        ],
+        "verb": [
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "close",
+      "types": {
+        "noun": [
+          "time",
+          "communication",
+          "act"
+        ],
+        "verb": [
+          "contact",
+          "social",
+          "stative",
+          "communication",
+          "perception",
+          "motion",
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "home",
+      "types": {
+        "noun": [
+          "location",
+          "artifact",
+          "state",
+          "group"
+        ],
+        "verb": [
+          "social",
+          "motion"
+        ],
+        "adjective": [
+          "all",
+          "pert"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "getting",
+      "types": {
+        "noun": [
+          "act"
+        ],
+        "verb": [
+          "possession",
+          "change",
+          "motion",
+          "contact",
+          "perception",
+          "competition",
+          "communication",
+          "body",
+          "cognition",
+          "emotion",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "plane",
+      "types": {
+        "noun": [
+          "artifact",
+          "shape",
+          "state"
+        ],
+        "verb": [
+          "contact",
+          "motion"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "opened",
+      "types": {
+        "verb": [
+          "contact",
+          "social",
+          "change",
+          "stative",
+          "competition",
+          "possession",
+          "perception"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "up",
+      "types": {
+        "verb": [
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "woodlands",
+      "types": {
+        "noun": [
+          "object"
+        ]
+      }
+    },
+    {
+      "root": "resort",
+      "types": {
+        "noun": [
+          "location",
+          "attribute",
+          "act"
+        ],
+        "verb": [
+          "social",
+          "motion"
+        ]
+      }
+    },
+    {
+      "root": "pandemic-weary",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "texans",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "took",
+      "types": {
+        "verb": [
+          "social",
+          "possession",
+          "motion",
+          "contact",
+          "change",
+          "cognition",
+          "stative",
+          "perception",
+          "communication",
+          "consumption",
+          "competition",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "note",
+      "types": {
+        "noun": [
+          "communication",
+          "attribute",
+          "possession",
+          "state"
+        ],
+        "verb": [
+          "communication",
+          "perception"
+        ]
+      }
+    },
+    {
+      "root": "effort",
+      "types": {
+        "noun": [
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "repair",
+      "types": {
+        "noun": [
+          "act",
+          "state",
+          "location"
+        ],
+        "verb": [
+          "change",
+          "possession",
+          "motion",
+          "body"
+        ]
+      }
+    },
+    {
+      "root": "their",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "relationship",
+      "types": {
+        "noun": [
+          "relation",
+          "state"
+        ]
+      }
+    },
+    {
+      "root": "theo",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "susanna",
+      "types": {
+        "noun": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "stunning",
+      "types": {
+        "verb": [
+          "change",
+          "contact",
+          "perception"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "remote",
+      "types": {
+        "noun": [
+          "artifact"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "modern",
+      "types": {
+        "noun": [
+          "person",
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "welsh",
+      "types": {
+        "noun": [
+          "person",
+          "communication",
+          "animal"
+        ],
+        "verb": [
+          "social"
+        ],
+        "adjective": [
+          "pert"
+        ]
+      }
+    },
+    {
+      "root": "countryside",
+      "types": {
+        "noun": [
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "themselves",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "6-year-old",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "daughter",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "ella",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "avery",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "essex",
+      "types": {
+        "noun": [
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "clark",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "collis",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "ew",
+      "types": {
+        "noun": [
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "festival",
+      "types": {
+        "noun": [
+          "time",
+          "act"
+        ]
+      }
+    },
+    {
+      "root": "hopes",
+      "types": {
+        "noun": [
+          "feeling",
+          "cognition",
+          "person",
+          "attribute"
+        ],
+        "verb": [
+          "emotion",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "same",
+      "types": {
+        "noun": [
+          "person",
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "bands",
+      "types": {
+        "noun": [
+          "group",
+          "attribute",
+          "artifact",
+          "communication",
+          "body"
+        ],
+        "verb": [
+          "contact"
+        ]
+      }
+    },
+    {
+      "root": "possible",
+      "types": {
+        "noun": [
+          "cognition",
+          "person"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "next",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "hoosiers",
+      "types": {
+        "noun": [
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "encouraged",
+      "types": {
+        "verb": [
+          "social",
+          "emotion",
+          "communication"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "only",
+      "types": {
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "appointment",
+      "types": {
+        "noun": [
+          "act",
+          "group",
+          "artifact",
+          "person"
+        ]
+      }
+    },
+    {
+      "root": "business",
+      "types": {
+        "noun": [
+          "group",
+          "act",
+          "cognition"
+        ]
+      }
+    },
+    {
+      "root": "cannot",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "be",
+      "types": {
+        "noun": [
+          "substance"
+        ],
+        "verb": [
+          "stative",
+          "social",
+          "possession"
+        ]
+      }
+    },
+    {
+      "root": "done",
+      "types": {
+        "verb": [
+          "social",
+          "creation",
+          "stative",
+          "body",
+          "motion"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "online",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "or",
+      "types": {
+        "noun": [
+          "location",
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "kiosk",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "ethan",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "may",
+      "types": {
+        "noun": [
+          "time",
+          "plant"
+        ]
+      }
+    },
+    {
+      "root": "indianapolis",
+      "types": {
+        "noun": [
+          "location"
+        ]
+      }
+    },
+    {
+      "root": "star",
+      "types": {
+        "noun": [
+          "object",
+          "person",
+          "shape",
+          "communication",
+          "cognition"
+        ],
+        "verb": [
+          "stative",
+          "creation",
+          "change"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "you",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "soon",
+      "types": {
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "longer",
+      "types": {
+        "noun": [
+          "person"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "go",
+      "types": {
+        "noun": [
+          "time",
+          "artifact",
+          "act"
+        ],
+        "verb": [
+          "motion",
+          "social",
+          "change",
+          "stative",
+          "perception",
+          "contact",
+          "consumption",
+          "competition",
+          "cognition"
+        ],
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "bmv",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "here",
+      "types": {
+        "noun": [
+          "location",
+          "person"
+        ],
+        "adjective": [
+          "all"
+        ],
+        "adverb": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "changes",
+      "types": {
+        "noun": [
+          "event",
+          "relation",
+          "act",
+          "phenomenon",
+          "possession",
+          "artifact",
+          "attribute"
+        ],
+        "verb": [
+          "change",
+          "possession",
+          "motion"
+        ]
+      }
+    },
+    {
+      "root": "six-year-old",
+      "types": {
+        "other": []
+      }
+    },
+    {
+      "root": "rooms",
+      "types": {
+        "noun": [
+          "artifact",
+          "quantity",
+          "state",
+          "group"
+        ],
+        "verb": [
+          "stative"
+        ]
+      }
+    },
+    {
+      "root": "hotel",
+      "types": {
+        "noun": [
+          "artifact"
+        ]
+      }
+    },
+    {
+      "root": "reading",
+      "types": {
+        "noun": [
+          "cognition",
+          "communication",
+          "location",
+          "act"
+        ],
+        "verb": [
+          "cognition",
+          "stative",
+          "communication",
+          "creation"
+        ]
+      }
+    },
+    {
+      "root": "sentence",
+      "types": {
+        "noun": [
+          "communication",
+          "act",
+          "time"
+        ],
+        "verb": [
+          "communication"
+        ]
+      }
+    },
+    {
+      "root": "stuff",
+      "types": {
+        "noun": [
+          "substance",
+          "artifact",
+          "possession",
+          "communication",
+          "attribute",
+          "cognition"
+        ],
+        "verb": [
+          "contact",
+          "motion",
+          "consumption",
+          "change"
+        ]
+      }
+    },
+    {
+      "root": "neat",
+      "types": {
+        "adjective": [
+          "all"
+        ]
+      }
+    },
+    {
+      "root": "think",
+      "types": {
+        "noun": [
+          "cognition"
+        ],
+        "verb": [
+          "cognition",
+          "creation",
+          "change"
+        ]
+      }
+    }
+  ],
+  "ideas": [
+    {
+      "sentence": "We booked out of there.",
+      "words": [
+        "we",
+        "booked",
+        "out",
+        "of",
+        "there"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The shelves in his office are filled with books.",
+      "words": [
+        "the",
+        "shelves",
+        "in",
+        "his",
+        "office",
+        "are",
+        "filled",
+        "with",
+        "books"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "That's one of the best books I've read in a long time.",
+      "words": [
+        "thats",
+        "one",
+        "of",
+        "the",
+        "best",
+        "books",
+        "ive",
+        "read",
+        "in",
+        "a",
+        "long",
+        "time"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The library has many dictionaries and other reference books.",
+      "words": [
+        "the",
+        "library",
+        "has",
+        "many",
+        "dictionaries",
+        "and",
+        "other",
+        "reference",
+        "books"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "His schooling provided him with extensive book knowledge.",
+      "words": [
+        "his",
+        "schooling",
+        "provided",
+        "him",
+        "with",
+        "extensive",
+        "book",
+        "knowledge"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "She had plenty of book learning but no hands-on experience.",
+      "words": [
+        "she",
+        "had",
+        "plenty",
+        "of",
+        "book",
+        "learning",
+        "but",
+        "no",
+        "hands-on",
+        "experience"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "They booked two seats at the theater.",
+      "words": [
+        "they",
+        "booked",
+        "two",
+        "seats",
+        "at",
+        "the",
+        "theater"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "They booked tickets for a direct flight from London to New York.",
+      "words": [
+        "they",
+        "booked",
+        "tickets",
+        "for",
+        "a",
+        "direct",
+        "flight",
+        "from",
+        "london",
+        "to",
+        "new",
+        "york"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "I booked a table at our favorite restaurant.",
+      "words": [
+        "i",
+        "booked",
+        "a",
+        "table",
+        "at",
+        "our",
+        "favorite",
+        "restaurant"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "She booked through her travel agent.",
+      "words": [
+        "she",
+        "booked",
+        "through",
+        "her",
+        "travel",
+        "agent"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "We will need to book early.",
+      "words": [
+        "we",
+        "will",
+        "need",
+        "to",
+        "book",
+        "early"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "She booked me on a flight from Oslo to Paris.",
+      "words": [
+        "she",
+        "booked",
+        "me",
+        "on",
+        "a",
+        "flight",
+        "from",
+        "oslo",
+        "to",
+        "paris"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "He was booked to sail on Monday.",
+      "words": [
+        "he",
+        "was",
+        "booked",
+        "to",
+        "sail",
+        "on",
+        "monday"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The band was booked to play at the reception.",
+      "words": [
+        "the",
+        "band",
+        "was",
+        "booked",
+        "to",
+        "play",
+        "at",
+        "reception"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The book reached No.",
+      "words": [
+        "the",
+        "book",
+        "reached",
+        "no"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "3 on The New York Times’ nonfiction bestseller list.",
+      "words": [
+        "3",
+        "on",
+        "the",
+        "new",
+        "york",
+        "times",
+        "nonfiction",
+        "bestseller",
+        "list"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Steven Kurutz, BostonGlobe.",
+      "words": [
+        "steven",
+        "kurutz",
+        "bostonglobe"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Into this role steps the native South Floridian memoirist Kent Russell with his sharp, brilliant, mean, and exasperating hybrid book, In the Land of Good Living.",
+      "words": [
+        "into",
+        "this",
+        "role",
+        "steps",
+        "the",
+        "native",
+        "south",
+        "floridian",
+        "memoirist",
+        "kent",
+        "russell",
+        "with",
+        "his",
+        "sharp",
+        "brilliant",
+        "mean",
+        "and",
+        "exasperating",
+        "hybrid",
+        "book",
+        "in",
+        "land",
+        "of",
+        "good",
+        "living"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The White House is seeking to block the public release of Bolton’s book, saying it is being published without formal authorization that the manuscript was free of classified information.",
+      "words": [
+        "the",
+        "white",
+        "house",
+        "is",
+        "seeking",
+        "to",
+        "block",
+        "public",
+        "release",
+        "of",
+        "boltons",
+        "book",
+        "saying",
+        "it",
+        "being",
+        "published",
+        "without",
+        "formal",
+        "authorization",
+        "that",
+        "manuscript",
+        "was",
+        "free",
+        "classified",
+        "information"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The book says that Donald Trump tried to persuade Xi Jinping, China’s president, to buy American farm goods to help his re-election campaign.",
+      "words": [
+        "the",
+        "book",
+        "says",
+        "that",
+        "donald",
+        "trump",
+        "tried",
+        "to",
+        "persuade",
+        "xi",
+        "jinping",
+        "chinas",
+        "president",
+        "buy",
+        "american",
+        "farm",
+        "goods",
+        "help",
+        "his",
+        "re-election",
+        "campaign"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Leading the hits were two losses in the Supreme Court and the Bolton book.",
+      "words": [
+        "leading",
+        "the",
+        "hits",
+        "were",
+        "two",
+        "losses",
+        "in",
+        "supreme",
+        "court",
+        "and",
+        "bolton",
+        "book"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Nonethless, Lamberth frowned upon the way Bolton went about publishing the book.",
+      "words": [
+        "nonethless",
+        "lamberth",
+        "frowned",
+        "upon",
+        "the",
+        "way",
+        "bolton",
+        "went",
+        "about",
+        "publishing",
+        "book"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The White House is seeking to block the public release of Bolton’s book, saying it is being published without formal authorization that the manuscript was free of classified information.",
+      "words": [
+        "the",
+        "white",
+        "house",
+        "is",
+        "seeking",
+        "to",
+        "block",
+        "public",
+        "release",
+        "of",
+        "boltons",
+        "book",
+        "saying",
+        "it",
+        "being",
+        "published",
+        "without",
+        "formal",
+        "authorization",
+        "that",
+        "manuscript",
+        "was",
+        "free",
+        "classified",
+        "information"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "—Time,As Justice Department Claims U.S.undefined",
+      "words": [
+        "time",
+        "as",
+        "justice",
+        "department",
+        "claims",
+        "usundefined"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The highly plausible caricature of Donald Trump in John Bolton’s book is also completely unsurprising.",
+      "words": [
+        "the",
+        "highly",
+        "plausible",
+        "caricature",
+        "of",
+        "donald",
+        "trump",
+        "in",
+        "john",
+        "boltons",
+        "book",
+        "is",
+        "also",
+        "completely",
+        "unsurprising"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Holman W.",
+      "words": [
+        "holman",
+        "w"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The Broward County Public Library Foundation’s biggest event of the year is the Literary Feast, but the organization plans book events year-round.",
+      "words": [
+        "the",
+        "broward",
+        "county",
+        "public",
+        "library",
+        "foundations",
+        "biggest",
+        "event",
+        "of",
+        "year",
+        "is",
+        "literary",
+        "feast",
+        "but",
+        "organization",
+        "plans",
+        "book",
+        "events",
+        "year-round"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Oline H.",
+      "words": [
+        "oline",
+        "h"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Cogdill, sun-sentinel.",
+      "words": [
+        "cogdill",
+        "sun-sentinel"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "com,December book events: Jewish humor, Mar-a-Lago history and hermit crab poetry, 25 Nov.",
+      "words": [
+        "com",
+        "december",
+        "book",
+        "events",
+        "jewish",
+        "humor",
+        "mar-a-lago",
+        "history",
+        "and",
+        "hermit",
+        "crab",
+        "poetry",
+        "25",
+        "nov"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Friends book sale The Friends of the Milpitas Library will host a book sale Sept.",
+      "words": [
+        "friends",
+        "book",
+        "sale",
+        "the",
+        "of",
+        "milpitas",
+        "library",
+        "will",
+        "host",
+        "a",
+        "sept"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "27-29 in the library’s auditorium.",
+      "words": [
+        "27-29",
+        "in",
+        "the",
+        "librarys",
+        "auditorium"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Anne Gelhaus, The Mercury News,Milpitas community briefs for the week of Sept.",
+      "words": [
+        "anne",
+        "gelhaus",
+        "the",
+        "mercury",
+        "news",
+        "milpitas",
+        "community",
+        "briefs",
+        "for",
+        "week",
+        "of",
+        "sept"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "27, 23 Sep.",
+      "words": [
+        "27",
+        "23",
+        "sep"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Friends book sale The Friends of the Campbell Library’s monthly sale is set for Sept.",
+      "words": [
+        "friends",
+        "book",
+        "sale",
+        "the",
+        "of",
+        "campbell",
+        "librarys",
+        "monthly",
+        "is",
+        "set",
+        "for",
+        "sept"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "14 and features new and used fiction, nonfiction, history books, comics, art books, cookbooks, children’s books and collectibles.",
+      "words": [
+        "14",
+        "and",
+        "features",
+        "new",
+        "used",
+        "fiction",
+        "nonfiction",
+        "history",
+        "books",
+        "comics",
+        "art",
+        "cookbooks",
+        "childrens",
+        "collectibles"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Anne Gelhaus, The Mercury News,Campbell community briefs for the week of Sept.",
+      "words": [
+        "anne",
+        "gelhaus",
+        "the",
+        "mercury",
+        "news",
+        "campbell",
+        "community",
+        "briefs",
+        "for",
+        "week",
+        "of",
+        "sept"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "6, 6 Sep.",
+      "words": [
+        "6",
+        "sep"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "As easy as book report research has become, don’t expect Google to give your child the full picture of adolescence.",
+      "words": [
+        "as",
+        "easy",
+        "book",
+        "report",
+        "research",
+        "has",
+        "become",
+        "dont",
+        "expect",
+        "google",
+        "to",
+        "give",
+        "your",
+        "child",
+        "the",
+        "full",
+        "picture",
+        "of",
+        "adolescence"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Friends book sale The Friends of the Sunnyvale Public Library are holding a July 20 sale of thousands of books, movies and music CDs.",
+      "words": [
+        "friends",
+        "book",
+        "sale",
+        "the",
+        "of",
+        "sunnyvale",
+        "public",
+        "library",
+        "are",
+        "holding",
+        "a",
+        "july",
+        "20",
+        "thousands",
+        "books",
+        "movies",
+        "and",
+        "music",
+        "cds"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "But even before all that leakage started, the Thrones fandom(especially book readers) have wondered for years if an ice dragon would finally appear.",
+      "words": [
+        "but",
+        "even",
+        "before",
+        "all",
+        "that",
+        "leakage",
+        "started",
+        "the",
+        "thrones",
+        "fandom",
+        "especially",
+        "book",
+        "readers",
+        "have",
+        "wondered",
+        "for",
+        "years",
+        "if",
+        "an",
+        "ice",
+        "dragon",
+        "would",
+        "finally",
+        "appear"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Joanna Robinson, HWD,Why Game of Thrones Fans Saw That Hideous Dragon Twist Coming, 20 Aug.",
+      "words": [
+        "joanna",
+        "robinson",
+        "hwd",
+        "why",
+        "game",
+        "of",
+        "thrones",
+        "fans",
+        "saw",
+        "that",
+        "hideous",
+        "dragon",
+        "twist",
+        "coming",
+        "20",
+        "aug"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "But even before all that leakage started, the Thrones fandom(especially book readers) have wondered for years if an ice dragon would finally appear.",
+      "words": [
+        "but",
+        "even",
+        "before",
+        "all",
+        "that",
+        "leakage",
+        "started",
+        "the",
+        "thrones",
+        "fandom",
+        "especially",
+        "book",
+        "readers",
+        "have",
+        "wondered",
+        "for",
+        "years",
+        "if",
+        "an",
+        "ice",
+        "dragon",
+        "would",
+        "finally",
+        "appear"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Joanna Robinson, vanityfair.",
+      "words": [
+        "joanna",
+        "robinson",
+        "vanityfair"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "com,Why Game of Thrones Fans Saw That Hideous Dragon Twist Coming, 20 Aug.",
+      "words": [
+        "com",
+        "why",
+        "game",
+        "of",
+        "thrones",
+        "fans",
+        "saw",
+        "that",
+        "hideous",
+        "dragon",
+        "twist",
+        "coming",
+        "20",
+        "aug"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "But the deal could help American capture more traffic between the United States and China through arrangements like code sharing, an industry term for a partnership that allows two airlines to more easily book passengers on each other’s flights.",
+      "words": [
+        "but",
+        "the",
+        "deal",
+        "could",
+        "help",
+        "american",
+        "capture",
+        "more",
+        "traffic",
+        "between",
+        "united",
+        "states",
+        "and",
+        "china",
+        "through",
+        "arrangements",
+        "like",
+        "code",
+        "sharing",
+        "an",
+        "industry",
+        "term",
+        "for",
+        "a",
+        "partnership",
+        "that",
+        "allows",
+        "two",
+        "airlines",
+        "to",
+        "easily",
+        "book",
+        "passengers",
+        "on",
+        "each",
+        "others",
+        "flights"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Neil Gough, New York Times,American Airlines Buys China Southern Stake as Traffic Booms, 27 Mar.",
+      "words": [
+        "neil",
+        "gough",
+        "new",
+        "york",
+        "times",
+        "american",
+        "airlines",
+        "buys",
+        "china",
+        "southern",
+        "stake",
+        "as",
+        "traffic",
+        "booms",
+        "27",
+        "mar"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Ownership intended to book lots of events in the building, but so far baseball hasn’t been among them.",
+      "words": [
+        "ownership",
+        "intended",
+        "to",
+        "book",
+        "lots",
+        "of",
+        "events",
+        "in",
+        "the",
+        "building",
+        "but",
+        "so",
+        "far",
+        "baseball",
+        "hasnt",
+        "been",
+        "among",
+        "them"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Back in the'60s, Hall's fatherlate great producer, songwriter and studio mastermind Rick Hallhad the foresight to book a photographer for major sessions.",
+      "words": [
+        "back",
+        "in",
+        "the",
+        "60s",
+        "halls",
+        "father",
+        "late",
+        "great",
+        "producer",
+        "songwriter",
+        "and",
+        "studio",
+        "mastermind",
+        "rick",
+        "hall",
+        "had",
+        "foresight",
+        "to",
+        "book",
+        "a",
+        "photographer",
+        "for",
+        "major",
+        "sessions"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Matt Wake| Mwake@al.",
+      "words": [
+        "matt",
+        "wake",
+        "mwakeal"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The lighthouse was built in the early 1890s and the cottage was recently converted to an upscale B&B—book the Lightkeeper’s Room for the best view of the lighthouse itself.",
+      "words": [
+        "the",
+        "lighthouse",
+        "was",
+        "built",
+        "in",
+        "early",
+        "1890s",
+        "and",
+        "cottage",
+        "recently",
+        "converted",
+        "to",
+        "an",
+        "upscale",
+        "bbbook",
+        "lightkeepers",
+        "room",
+        "for",
+        "best",
+        "view",
+        "of",
+        "itself"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "A month ago, when the chance to book a vacation close to home without getting on a plane opened up at The Woodlands Resort, pandemic-weary Texans took note.",
+      "words": [
+        "a",
+        "month",
+        "ago",
+        "when",
+        "the",
+        "chance",
+        "to",
+        "book",
+        "vacation",
+        "close",
+        "home",
+        "without",
+        "getting",
+        "on",
+        "plane",
+        "opened",
+        "up",
+        "at",
+        "woodlands",
+        "resort",
+        "pandemic-weary",
+        "texans",
+        "took",
+        "note"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "In an effort to repair their relationship, Theo and Susanna book a vacation at a stunning, remote modern home in the Welsh countryside for themselves and their 6-year-old daughter, Ella(Avery Essex).",
+      "words": [
+        "in",
+        "an",
+        "effort",
+        "to",
+        "repair",
+        "their",
+        "relationship",
+        "theo",
+        "and",
+        "susanna",
+        "book",
+        "a",
+        "vacation",
+        "at",
+        "stunning",
+        "remote",
+        "modern",
+        "home",
+        "the",
+        "welsh",
+        "countryside",
+        "for",
+        "themselves",
+        "6-year-old",
+        "daughter",
+        "ella",
+        "avery",
+        "essex"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Clark Collis, EW.",
+      "words": [
+        "clark",
+        "collis",
+        "ew"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "The festival hopes to book as many of the same bands as possible for next year.",
+      "words": [
+        "the",
+        "festival",
+        "hopes",
+        "to",
+        "book",
+        "as",
+        "many",
+        "of",
+        "same",
+        "bands",
+        "possible",
+        "for",
+        "next",
+        "year"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Hoosiers are encouraged to only book an appointment for business that cannot be done online or at a kiosk.",
+      "words": [
+        "hoosiers",
+        "are",
+        "encouraged",
+        "to",
+        "only",
+        "book",
+        "an",
+        "appointment",
+        "for",
+        "business",
+        "that",
+        "cannot",
+        "be",
+        "done",
+        "online",
+        "or",
+        "at",
+        "a",
+        "kiosk"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "— Ethan May, The Indianapolis Star,You will soon no longer need an appointment to go to the BMV.",
+      "words": [
+        "ethan",
+        "may",
+        "the",
+        "indianapolis",
+        "star",
+        "you",
+        "will",
+        "soon",
+        "no",
+        "longer",
+        "need",
+        "an",
+        "appointment",
+        "to",
+        "go",
+        "bmv"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "Here are other changes.",
+      "words": [
+        "here",
+        "are",
+        "other",
+        "changes"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "In an effort to repair their relationship, Theo and Susanna book a vacation at a stunning, remote modern home in the Welsh countryside for themselves and their six-year-old daughter, Ella(Avery Essex).",
+      "words": [
+        "in",
+        "an",
+        "effort",
+        "to",
+        "repair",
+        "their",
+        "relationship",
+        "theo",
+        "and",
+        "susanna",
+        "book",
+        "a",
+        "vacation",
+        "at",
+        "stunning",
+        "remote",
+        "modern",
+        "home",
+        "the",
+        "welsh",
+        "countryside",
+        "for",
+        "themselves",
+        "six-year-old",
+        "daughter",
+        "ella",
+        "avery",
+        "essex"
+      ],
+      "evaluated": false
+    },
+    {
+      "sentence": "He booked rooms at the hotel.",
+      "words": [
+        "he",
+        "booked",
+        "rooms",
+        "at",
+        "the",
+        "hotel"
+      ],
+      "evaluated": false
+    }
+  ],
+  "weights": []
+}
