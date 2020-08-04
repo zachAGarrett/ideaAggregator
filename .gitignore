@@ -2,3 +2,5 @@ node_modules
 .vscode
 ideas.json
 weights.json
+
+__pycache__/

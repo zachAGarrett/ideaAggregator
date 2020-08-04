@@ -1,6 +1,7 @@
 import json
 import requests
 from data.repository import insert, find_one, find_list, update
+import re
 
 def calculateWeights(words):
     for word in words:
@@ -160,7 +161,10 @@ def parseSentence(sentence = ''):
     calculateAdjacency(sentence.split(' '))
     insert('ideas', 'ideas', idea)
 
-p = "Being Southerners, it was a source of shame to some members of the family that we had no recorded ancestors on either side of the Battle of Hastings. All we had was Simon Finch, a fur-trapping apothecary from Cornwall whose piety was exceeded only by his stinginess. In England, Simon was irritated by the persecution of those who called themselves Methodists at the hands of their more liberal brethren, and as Simon called himself a Methodist, he worked his way across the Atlantic to Philadelphia, thence to Jamaica, thence to Mobile, and up the Saint Stephens. Mindful of John Wesley’s strictures on the use of many words in buying and selling, Simon made a pile practicing medicine, but in this pursuit he was unhappy lest he be tempted into doing what he knew was not for the glory of God, as the putting on of gold and costly apparel. So Simon, having forgotten his teacher’s dictum on the possession of human chattels, bought three slaves and with their aid established a homestead on the banks of the Alabama River some forty miles above Saint Stephens. He returned to Saint Stephens only once, to find a wife, and with her established a line that ran high to daughters. Simon lived to an impressive age and died rich."
+with open ('mockingbird.txt', 'r') as f:
+    data = f.read().replace('\n', ' ')
+    sentences = re.split('(([^.?!]|[A-Z]\w{1}[.!?])+(\w.|\w!|\w?){2,})|([^.?!]|[A-Z]\w{1}[.!?])+([^A-Z]\w{1}[.!?])', data)
+    blah = 0
+    for sentence in sentences:
+        parseSentence(sentence)
 
-for s in p.split('.'):
-    parseSentence(s)
