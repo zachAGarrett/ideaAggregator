@@ -161,9 +161,9 @@ def parseSentence(sentence = ''):
     calculateAdjacency(sentence.split(' '))
     insert('ideas', 'ideas', idea)
 
-with open ('mockingbird.txt', 'r') as f:
+with open ('mockingbird.txt', 'r', encoding="utf8") as f:
     data = f.read().replace('\n', ' ')
-    sentences = re.split('(([^.?!]|[A-Z]\w{1}[.!?])+(\w.|\w!|\w?){2,})|([^.?!]|[A-Z]\w{1}[.!?])+([^A-Z]\w{1}[.!?])', data)
+    sentences = re.findall('(([^.?!]|[A-Z]\w{1}[.!?])+(\w.|\w!|\w?){2,})|([^.?!]|[A-Z]\w{1}[.!?])+([^A-Z]\w{1}[.!?])', data)
     blah = 0
     for sentence in sentences:
         parseSentence(sentence)
