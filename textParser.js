@@ -13,7 +13,7 @@ const text = fs.readFileSync(text_path, 'utf8', (err, data) => {
 const serialize = (textString) => {
     const regex_titles = /(?<=(?<titles>(mrs)|(mr)|(dr)|(esq)|(hon)|(jr)|(ms)|(messrs)|(mmes)|(msgr)|(prof)|(rev)|(rt)|(sr)|(st)))\./gi;
     const t = textString.replace(regex_titles, '');
-    return t;
+    return t.replace(/\r|\n/g, ' ');
 };
 
 // this will match sentences, but fail on acronyms
@@ -47,4 +47,4 @@ const concatSentences = (arr) => {
 
 // test
 console.log( concatSentences( serialize(text).match(regex_sentences) ) );
-
+console.log('pause')
