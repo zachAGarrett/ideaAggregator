@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // we can modify the entrypoint for a body of text
-const file = '/data/textBody';
-const text_path = `${__dirname}${file}`;
+const file = '/mockingbird.txt';
+const text_path = __dirname + file;
 
 const text = fs.readFileSync(text_path, 'utf8', (err, data) => {
     console.warn(err);
